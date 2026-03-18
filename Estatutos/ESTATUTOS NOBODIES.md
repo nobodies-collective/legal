@@ -272,8 +272,6 @@ La Junta Directiva tiene las siguientes facultades:
 
 3. La Junta Directiva toma los acuerdos por mayoría simple de votos de los asistentes. En caso de empate se considerará el voto del Presidente de la Junta Directiva o la persona por éste delgada, como voto de calidad con capacidad de desempate.
 
-4. La Junta Directiva podrá adoptar acuerdos sin necesidad de reunión cuando todos sus miembros manifiesten por escrito, incluidos los medios electrónicos, su voto favorable al acuerdo propuesto. El Secretario dejará constancia de dichos acuerdos en el acta correspondiente.
-
 ### Artículo 16. Delegación de Facultades y Designación de Representantes.
 
 1. La Junta Directiva podrá delegar alguna de sus facultades en una o varias comisiones o grupos de trabajo si cuenta, para ello, con el voto favorable de dos tercios de sus miembros.
