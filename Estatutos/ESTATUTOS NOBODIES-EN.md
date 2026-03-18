@@ -60,7 +60,7 @@
 
    d. To promote collaboration, cooperation, representation and participation of the Association in other associations, business organizations, public or private bodies or institutions, at regional, national or European level with a similar object.
 
-2. The coverage area of the Association shall be Spanish territory.
+2. The primary coverage area of the Association shall be Spanish territory, without prejudice to activities it may carry out internationally in pursuit of its purposes.
 
 ### Article 3. Activities of the Association.
 
@@ -152,7 +152,7 @@ The General Assembly has the power to:
 
 6. The Secretary of the Board of Trustees shall draw up the minutes of each meeting, which must be signed by him or her and by the President of the Assembly, including a summary of the deliberations, the text of the resolutions adopted, the numerical result of the votes and the list of attendees.
 
-7. The minutes must be sent within the month following the meeting. Once reviewed and approved by the attendees, their final version may be validated by electronic means.
+7. The minutes must be sent within 30 calendar days of the meeting. Once reviewed and approved by the attendees, their final version may be validated by electronic means.
 
 8. At the beginning of each meeting of the General Assembly, the Secretary shall read the minutes of the previous session. It shall also be the responsibility of the Secretary to send, at least fifteen days in advance, the corresponding minutes and any other documentation to the representatives of the General Assembly.
 

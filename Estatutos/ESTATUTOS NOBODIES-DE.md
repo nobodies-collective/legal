@@ -38,7 +38,7 @@
 
       2. Zusammenarbeit.
 
-      3. Geschenke.
+      3. Schenken.
 
       4. Unmittelbarkeit.
 
@@ -60,7 +60,7 @@
 
    d. Die Zusammenarbeit, Kooperation, Vertretung und Beteiligung des Vereins an anderen Vereinen, Unternehmensorganisationen, öffentlichen oder privaten Einrichtungen oder Institutionen mit vergleichbarem Zweck auf autonomer, staatlicher oder europäischer Ebene zu fördern.
 
-2. Der Wirkungsbereich des Vereins ist das spanische Staatsgebiet.
+2. Der Hauptwirkungsbereich des Vereins ist das spanische Staatsgebiet, unbeschadet der Tätigkeiten, die er zur Erfüllung seiner Zwecke auf internationaler Ebene durchführen kann.
 
 ### Artikel 3. Tätigkeiten des Vereins.
 
@@ -152,7 +152,7 @@ Die Mitgliederversammlung ist befugt:
 
 6. Der Sekretär des Vorstands verfasst das Protokoll jeder Sitzung, das von ihm selbst und dem Vorsitzenden der Versammlung zu unterzeichnen ist und einen Auszug der Beratungen, den Wortlaut der gefassten Beschlüsse, das zahlmäßige Abstimmungsergebnis und die Anwesenheitsliste enthält.
 
-7. Das Protokoll ist im Monat nach der Sitzung zu versenden. Nach Prüfung und Genehmigung durch die Anwesenden kann die endgültige Fassung elektronisch validiert werden.
+7. Das Protokoll ist innerhalb von 30 Kalendertagen nach der Sitzung zu versenden. Nach Prüfung und Genehmigung durch die Anwesenden kann die endgültige Fassung elektronisch validiert werden.
 
 8. Zu Beginn jeder Sitzung der Mitgliederversammlung verliest der Sekretär das Protokoll der vorherigen Sitzung. Ebenso ist der Sekretär dafür verantwortlich, das entsprechende Protokoll und alle sonstigen Unterlagen mindestens fünfzehn Tage im Voraus an die Vertreter der Mitgliederversammlung zu übersenden.
 
