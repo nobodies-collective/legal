@@ -138,7 +138,7 @@ La Asamblea General tiene potestad para:
 
 2. El órgano de gobierno puede convocar la Asamblea General con carácter extraordinario siempre que lo considere conveniente, y debe hacerlo cuando lo soliciten, al menos, la mitad de los asociados; en este caso, la Asamblea tendrá lugar dentro del plazo de treinta días a contar desde la solicitud.
 
-   Dicha Asamblea podrá reunirse tanto de manera presencial como telemática. Asimismo, se permitirá en todo caso el uso de medios de voto electrónico o a distancia para la adopción de acuerdos, siempre que ningún participante manifieste expresamente su oposición a este sistema y se garantice la identidad de los asociados y la validez del voto emitido.
+   Dicha Asamblea podrá reunirse tanto de manera presencial como por videoconferencia u otros medios telemáticos. Asimismo, se permitirá en todo caso el uso de medios de voto electrónico o a distancia para la adopción de acuerdos, salvo que la mayoría de los asistentes manifieste expresamente su oposición a este sistema, y siempre que se garantice la identidad de los asociados y la validez del voto emitido.
 
 3. La Asamblea será convocada por la Junta Directiva mediante convocatoria que contendrá, como mínimo, el orden del día, lugar (pudiendo ser telemática, facilitando en dicho caso las instrucciones de acceso), fecha y hora de la reunión.
 
@@ -159,6 +159,8 @@ La Asamblea General tiene potestad para:
 1. La Asamblea General (indistintamente sea esta ordinaria o extraordinaria) quedarán válidamente constituidas en primera convocatoria cuando concurran a ella, presentes o representados, la mitad más uno de sus miembros sin límite numérico. En segunda convocatoria, la Asamblea quedará válidamente constituida con los asociados con derecho a votos presentes o representados en la misma y, por ello, con cualquiera que sea el número de asistentes. En el orden del día de las reuniones, se hará constar la convocatoria en primera y segunda convocatoria.
 
 2. La solicitud de inclusión adicional en el orden del día de uno o más asuntos a tratar podrá ser llevada a cabo por cualquier asociado, si en dicha solicitud participa al menos un 20% de los miembros. En caso de que ya se haya convocado la Asamblea, dicha solicitud se puede presentar a la Junta Directiva hasta 15 días naturales antes de la fecha en que este órgano debe reunirse. La Asamblea únicamente podrá adoptar acuerdos respecto a los puntos incluidos en el orden del día, salvo que se haya constituido con carácter universal o que los acuerdos se refieran a la convocatoria de nueva Asamblea General. Aquellos puntos que se hayan tratado y no hayan sido incluidos en el orden del día habrán de ser incluidos -y en su caso, votados y refrendados- en la siguiente Asamblea, sea esta ordinaria o extraordinaria.
+
+3. La Asamblea General quedará válidamente constituida con carácter universal cuando estén presentes o representados todos los miembros de la Asociación y acepten por unanimidad la celebración de la reunión y el orden del día propuesto, sin necesidad de cumplir los requisitos formales de convocatoria previstos en el artículo 8.
 
 ### Artículo 10. Votación y Adopción de Acuerdos de la Asamblea General.
 
@@ -260,6 +262,8 @@ La Junta Directiva tiene las siguientes facultades:
 
 2. Se reunirá en sesión extraordinaria cuando la convoque con este carácter el Presidente, o bien si lo solicita un tercio de los miembros que la componen.
 
+3. Las sesiones de la Junta Directiva podrán celebrarse tanto de manera presencial como por videoconferencia u otros medios telemáticos.
+
 ### Artículo 15. Constitución y Adopción de Acuerdos en la Junta Directiva.
 
 1. La Junta Directiva queda válidamente constituida si ha sido convocada con antelación y existe un quórum de la mitad más uno de sus miembros.
@@ -267,6 +271,8 @@ La Junta Directiva tiene las siguientes facultades:
 2. Los miembros de la Junta Directiva están obligados a asistir a todas las reuniones que se convoquen, aunque, por causas justificadas, pueden excusarse. La asistencia del Presidente o bien del Secretario, o en su caso de las personas que los sustituyan, previa delegación por éstos, es necesaria siempre.
 
 3. La Junta Directiva toma los acuerdos por mayoría simple de votos de los asistentes. En caso de empate se considerará el voto del Presidente de la Junta Directiva o la persona por éste delgada, como voto de calidad con capacidad de desempate.
+
+4. La Junta Directiva podrá adoptar acuerdos sin necesidad de reunión cuando todos sus miembros manifiesten por escrito, incluidos los medios electrónicos, su voto favorable al acuerdo propuesto. El Secretario dejará constancia de dichos acuerdos en el acta correspondiente.
 
 ### Artículo 16. Delegación de Facultades y Designación de Representantes.
 
