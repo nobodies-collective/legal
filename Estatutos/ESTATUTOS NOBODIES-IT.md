@@ -142,7 +142,7 @@ L'Assemblea Generale ha il potere di:
 
 3. L'Assemblea sarà convocata dal Consiglio Direttivo mediante convocazione che conterrà, come minimo, l'ordine del giorno, il luogo (potendo essere telematica, fornendo in tal caso le istruzioni di accesso), la data e l'ora della riunione.
 
-4. La convocazione deve essere comunicata 15 giorni prima della data della riunione, individualmente e mediante email indirizzata a tutti gli associati.
+4. La convocazione deve essere comunicata 15 giorni prima della data della riunione, individualmente e mediante email indirizzata a tutti gli associati. In caso di convocazione straordinaria, si applicherà quanto previsto dall'articolo 10.
 
 5. Le riunioni dell'Assemblea Generale saranno presiedute dal Presidente del Consiglio Direttivo; in caso di sua assenza, la presidenza sarà esercitata dal Vicepresidente; in caso di assenza di entrambi, dal membro del Consiglio Direttivo che l'Assemblea deciderà.
 

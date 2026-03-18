@@ -142,7 +142,7 @@ The General Assembly has the power to:
 
 3. The Assembly shall be convened by the Board of Trustees by means of a notice that shall contain, at least, the agenda, the place (which may be online, in which case the access instructions shall be provided), date and time of the meeting.
 
-4. The call must be communicated 15 days before the date of the meeting, individually and by email addressed to all members.
+4. The call must be communicated 15 days before the date of the meeting, individually and by email addressed to all members. In the case of an extraordinary call, it shall be governed in accordance with the provisions set out in Article 10.
 
 5. Meetings of the General Assembly shall be chaired by the President of the Board of Trustees; in his or her absence, by the Vice President; and in the absence of both, by the member of the Board of Trustees designated by the Assembly.
 

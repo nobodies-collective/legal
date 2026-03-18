@@ -142,7 +142,7 @@ Die Mitgliederversammlung ist befugt:
 
 3. Die Versammlung wird vom Vorstand durch eine Einberufung einberufen, die mindestens die Tagesordnung, den Ort (kann auch per Fernkommunikation erfolgen, wobei in diesem Fall die Zugangsinformationen mitzuteilen sind), das Datum und die Uhrzeit der Sitzung enthält.
 
-4. Die Einberufung muss 15 Tage vor dem Sitzungstermin individuell per E-Mail an alle Mitglieder mitgeteilt werden.
+4. Die Einberufung muss 15 Tage vor dem Sitzungstermin individuell per E-Mail an alle Mitglieder mitgeteilt werden. Bei einer außerordentlichen Einberufung gilt die Regelung gemäß Artikel 10.
 
 5. Die Sitzungen der Mitgliederversammlung werden vom Vorsitzenden des Vorstands geleitet; bei dessen Abwesenheit übernimmt der stellvertretende Vorsitzende den Vorsitz; bei Abwesenheit beider das Vorstandsmitglied, das die Versammlung bestimmt.
 

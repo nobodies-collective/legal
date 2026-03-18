@@ -142,7 +142,7 @@ L'Assemblée Générale a le pouvoir de :
 
 3. L'Assemblée sera convoquée par le Conseil d'Administration au moyen d'une convocation qui contiendra, au minimum, l'ordre du jour, le lieu (pouvant être en distanciel, auquel cas les instructions d'accès seront fournies), la date et l'heure de la réunion.
 
-4. La convocation doit être communiquée 15 jours avant la date de la réunion, individuellement et par courrier électronique adressé à tous les associés.
+4. La convocation doit être communiquée 15 jours avant la date de la réunion, individuellement et par courrier électronique adressé à tous les associés. En cas de convocation extraordinaire, elle sera régie conformément aux dispositions de l'article 10.
 
 5. Les réunions de l'Assemblée Générale seront présidées par le Président du Conseil d'Administration ; en cas d'absence de celui-ci, la présidence sera exercée par le Vice-Président ; en cas d'absence des deux, par le membre du Conseil d'Administration que l'Assemblée désignera.
 
