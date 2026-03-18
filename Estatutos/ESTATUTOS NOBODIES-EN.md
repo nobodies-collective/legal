@@ -140,7 +140,7 @@ The General Assembly has the power to:
 
 2. The governing body may convene the General Assembly on an extraordinary basis whenever it deems it appropriate, and must do so when requested by, at least, half of the members; in this case, the Assembly shall take place within thirty days from the request.
 
-   The General Assembly may be held either in person or by videoconference or other telematic means. Likewise, the use of electronic or remote voting methods shall be permitted in all cases for the adoption of resolutions, unless a majority of attendees expressly objects to this system, and provided that the identity of the members and the validity of the votes cast are duly guaranteed.
+   Such Assembly may be held either in person or by telematic means. Likewise, the use of electronic or remote voting methods shall be permitted in all cases for the adoption of resolutions, provided that no participant expressly objects to this system and that the identity of the members and the validity of the votes cast are duly guaranteed.
 
 3. The Assembly shall be convened by the Board of Trustees by means of a notice that shall contain, at least, the agenda, the place (which may be online, in which case the access instructions shall be provided), date and time of the meeting.
 
@@ -161,8 +161,6 @@ The General Assembly has the power to:
 1. The General Assembly (whether ordinary or extraordinary) shall be validly constituted on first convocation when at least half plus one of its members, present or represented, attend, without numerical limit. On second convocation, the Assembly shall be validly constituted with the members with voting rights present or represented therein, regardless of the number of attendees. The agenda for the meetings shall state the first and second convocation.
 
 2. A request for the additional inclusion on the agenda of one or more items to be discussed may be made by any member, provided that at least 20% of the members take part in said request. If the Assembly has already been convened, such request may be submitted to the Board of Trustees up to 15 calendar days before the date on which this body is to meet. The Assembly may only adopt resolutions on the items included on the agenda, unless it has been constituted as a universal meeting or the resolutions refer to the convening of a new General Assembly. Items that have been discussed but not included on the agenda must be included —and, where appropriate, voted on and endorsed— at the next Assembly, whether ordinary or extraordinary.
-
-3. The General Assembly shall be validly constituted as a Universal Assembly when all members of the Association are present or represented and unanimously agree to hold the meeting and to the proposed agenda, without the need to comply with the formal notice requirements set out in Article 8.
 
 ### Article 10. Voting and Adoption of Resolutions of the General Assembly.
 
@@ -264,8 +262,6 @@ The Board of Trustees has the following powers:
 
 2. It shall meet in extraordinary session when convened as such by the President, or if requested by one third of its members.
 
-3. Meetings of the Board of Trustees may be held either in person or by videoconference or other telematic means.
-
 ### Article 15. Formation and Adoption of Resolutions of the Board of Trustees.
 
 1. The Board of Trustees shall be validly constituted if it has been duly convened and there is a quorum of half plus one of its members.
@@ -273,6 +269,8 @@ The Board of Trustees has the following powers:
 2. The members of the Board of Trustees are obliged to attend all meetings that are convened, although they may excuse themselves for justified reasons. The attendance of the President or the Secretary, or, where applicable, of the persons replacing them by prior delegation, is always required.
 
 3. The Board of Trustees adopts its resolutions by simple majority of the votes of those present. In the event of a tie, the vote of the President of the Board of Trustees, or of the person designated by them, shall be deemed a casting vote with tie-breaking effect.
+
+4. The Board of Trustees may adopt resolutions without holding a meeting when all of its members express in writing, including by electronic means, their favourable vote on the proposed resolution. The Secretary shall record such resolutions in the corresponding minutes.
 
 ### Article 16. Delegation of Powers and Appointment of Representatives.
 
