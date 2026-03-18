@@ -336,6 +336,14 @@ La Junta Directiva tiene las siguientes facultades:
 
 La Junta Directiva podrá invitar a sus reuniones a personas cuya presencia considere de interés, las cuales participarán con voz pero sin voto. Asimismo, podrá crear órganos consultivos o comisiones de asesoramiento formadas por personas asociadas o expertas externas para colaborar en fines específicos de la Asociación.
 
+### Artículo 19 bis. Exoneración de Responsabilidad e Indemnización.
+
+1. Los miembros de la Junta Directiva, así como las personas que actúen en nombre de la Asociación en calidad de voluntarios, coordinadores de grupos de trabajo o representantes autorizados, no responderán personalmente por los daños o perjuicios que pudieran derivarse de las actuaciones realizadas de buena fe y en el ejercicio legítimo de sus funciones, salvo en los casos de dolo, negligencia grave o extralimitación manifiesta de sus competencias.
+
+2. La Asociación, en la medida que lo permitan sus recursos y la legislación vigente, mantendrá indemnes a las personas mencionadas en el apartado anterior frente a las reclamaciones, costes judiciales y gastos razonables en los que pudieran incurrir como consecuencia de actuaciones realizadas en el desempeño de sus funciones para la Asociación, siempre que dichas actuaciones se hubieran llevado a cabo de buena fe y en interés de la misma.
+
+3. La Junta Directiva podrá contratar un seguro de responsabilidad civil que cubra las actividades de la Asociación, incluyendo la actuación de sus miembros, directivos y voluntarios.
+
 ---
 
 ## CAPÍTULO III. COMISIONES O GRUPOS DE TRABAJO
@@ -345,6 +353,18 @@ La Junta Directiva podrá invitar a sus reuniones a personas cuya presencia cons
 1. La Asociación supervisará la creación de comisiones o grupos de trabajo que desempeñen la labor de apoyo de diversa naturaleza a la misma.
 
 2. La Junta Directiva tendrá funciones de supervisión a fin de analizar los diferentes grupos de trabajo, cuyos encargados deben presentarle una vez al año un informe detallado de sus actuaciones.
+
+### Artículo 20 bis. Régimen de Voluntarios en Actividades y Eventos.
+
+1. Las personas que participen como voluntarias en la organización de las actividades y eventos de la Asociación actuarán bajo la coordinación de los grupos de trabajo correspondientes y de acuerdo con las instrucciones de la Junta Directiva.
+
+2. La Asociación reconoce que los voluntarios actúan de forma altruista y sin relación laboral alguna. En consecuencia, y sin perjuicio de lo establecido en el artículo 19 bis, la Asociación procurará cubrir mediante un seguro adecuado los riesgos derivados de la actividad voluntaria en sus eventos.
+
+3. Los voluntarios deberán ser informados previamente de los riesgos asociados a su actividad y de las medidas de seguridad aplicables.
+
+---
+
+## CAPÍTULO IV. DE LOS ASOCIADOS Y COLABORADORES
 
 ### Artículo 21. Admisión de Miembros.
 
@@ -401,6 +421,8 @@ Son deberes de todos los asociados:
 ### Artículo 24. Colaboradores de la Asociación.
 
 Sin que técnicamente reúnan la condición de asociados, se establece la categoría de colaboradores para aquellas personas o entidades que, deseando contribuir al mantenimiento y desarrollo de la Asociación y a la promoción de sus fines, sean aceptadas por la Junta Directiva, la cual determinará la cuota mínima de participación económica que en ningún caso superior a la cuarta parte de la cuota de un asociado. La solicitud de colaboración se dirigirá a la Junta Directiva junto a los datos necesarios, debiendo resolverse por la misma en un plazo máximo de treinta días.
+
+Los colaboradores no son miembros de la Asociación y no podrán ejercer el derecho de voto ni participar en los órganos de gobierno de la misma.
 
 ### Artículo 25. Derechos de los Colaboradores.
 

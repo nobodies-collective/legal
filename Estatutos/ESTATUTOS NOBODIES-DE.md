@@ -338,6 +338,14 @@ Der Vorstand hat folgende Befugnisse:
 
 Der Vorstand kann Personen zu seinen Sitzungen einladen, deren Anwesenheit er für nützlich hält; diese nehmen mit Rede-, aber ohne Stimmrecht teil. Ebenso kann er beratende Gremien oder Beratungskommissionen aus Vereinsmitgliedern oder externen Experten bilden, die bei bestimmten Vereinszwecken mitwirken.
 
+### Artikel 19 bis. Haftungsbeschränkung und Freistellung.
+
+1. Die Mitglieder des Vorstands sowie Personen, die im Namen des Vereins als Freiwillige, Arbeitsgruppenkoordinatoren oder bevollmächtigte Vertreter handeln, haften nicht persönlich für Schäden, die aus in gutem Glauben und in der rechtmäßigen Ausübung ihrer Aufgaben vorgenommenen Handlungen entstehen können, es sei denn, es liegt Vorsatz, grobe Fahrlässigkeit oder eine offensichtliche Überschreitung ihrer Befugnisse vor.
+
+2. Der Verein wird, soweit es seine Mittel und die geltende Gesetzgebung erlauben, die im vorstehenden Absatz genannten Personen von Ansprüchen, Gerichtskosten und angemessenen Aufwendungen freistellen, die ihnen infolge von Handlungen in Ausübung ihrer Aufgaben für den Verein entstehen könnten, sofern diese Handlungen in gutem Glauben und im Interesse des Vereins vorgenommen wurden.
+
+3. Der Vorstand kann eine Haftpflichtversicherung abschließen, die die Tätigkeiten des Vereins abdeckt, einschließlich der Handlungen seiner Mitglieder, Vorstandsmitglieder und Freiwilligen.
+
 ---
 
 ## KAPITEL III. KOMMISSIONEN ODER ARBEITSGRUPPEN
@@ -347,6 +355,18 @@ Der Vorstand kann Personen zu seinen Sitzungen einladen, deren Anwesenheit er f�
 1. Der Verein beaufsichtigt die Bildung von Kommissionen oder Arbeitsgruppen, die den Verein in verschiedener Weise unterstützen.
 
 2. Der Vorstand hat Aufsichtsfunktionen, um die verschiedenen Arbeitsgruppen zu analysieren, deren Verantwortliche ihm einmal jährlich einen detaillierten Tätigkeitsbericht vorlegen müssen.
+
+### Artikel 20 bis. Freiwilligenregelung für Aktivitäten und Veranstaltungen.
+
+1. Personen, die als Freiwillige an der Organisation der Aktivitäten und Veranstaltungen des Vereins mitwirken, handeln unter der Koordination der entsprechenden Arbeitsgruppen und gemäß den Anweisungen des Vorstands.
+
+2. Der Verein erkennt an, dass Freiwillige uneigennützig und ohne jegliches Arbeitsverhältnis handeln. Dementsprechend und unbeschadet der Bestimmungen des Artikels 19 bis wird der Verein bestrebt sein, die mit der Freiwilligentätigkeit bei seinen Veranstaltungen verbundenen Risiken durch eine angemessene Versicherung abzudecken.
+
+3. Die Freiwilligen müssen vorab über die mit ihrer Tätigkeit verbundenen Risiken und die geltenden Sicherheitsmaßnahmen informiert werden.
+
+---
+
+## KAPITEL IV. MITGLIEDER UND FÖRDERER
 
 ### Artikel 21. Aufnahme von Mitgliedern.
 
@@ -403,6 +423,8 @@ Alle Mitglieder haben folgende Pflichten:
 ### Artikel 24. Förderer des Vereins.
 
 Ohne technisch die Eigenschaft von Mitgliedern zu besitzen, wird die Kategorie der Förderer für Personen oder Einrichtungen eingeführt, die zum Unterhalt und zur Entwicklung des Vereins sowie zur Förderung seiner Ziele beitragen möchten und vom Vorstand angenommen werden. Der Vorstand legt den Mindestbeitrag fest, der in keinem Fall ein Viertel des Mitgliedsbeitrags übersteigen darf. Der Antrag auf Förderung ist zusammen mit den erforderlichen Angaben an den Vorstand zu richten, der innerhalb von höchstens dreißig Tagen darüber entscheiden muss.
+
+Förderer sind keine Mitglieder des Vereins und dürfen weder das Stimmrecht ausüben noch an den Vereinsorganen mitwirken.
 
 ### Artikel 25. Rechte der Förderer.
 
