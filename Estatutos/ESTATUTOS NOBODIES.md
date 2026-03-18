@@ -88,9 +88,7 @@ Los órganos de gobierno y representación de la Asociación son, respectivament
 
 ---
 
-### Sección Primera
-
-### De la Asamblea General
+### Sección Primera — De la Asamblea General
 
 ### Artículo 5. Composición y Estructura de la Asamblea General.
 
@@ -128,7 +126,7 @@ La Asamblea General tiene potestad para:
 
 7. Aprobar por mayoría, refrendar, observar y hacer cumplir en última instancia el Reglamento de Régimen Interno.
 
-8. Acordar la baja o separación definitiva, previo expediente, de los asociados, conforme a lo recogido en el artículo 25.
+8. Acordar la baja o separación definitiva, previo expediente, de los asociados, conforme a lo recogido en el artículo 26.
 
 9. Resolver sobre cualquier otra cuestión que no esté directamente atribuida a ningún otro órgano dentro de Nobodies.
 
@@ -142,7 +140,7 @@ La Asamblea General tiene potestad para:
 
 3. La Asamblea será convocada por la Junta Directiva mediante convocatoria que contendrá, como mínimo, el orden del día, lugar (pudiendo ser telemática, facilitando en dicho caso las instrucciones de acceso), fecha y hora de la reunión.
 
-4. La convocatoria debe comunicarse 15 días antes de la fecha de la reunión, individualmente y mediante un email dirigido a todos los asociados. En caso de convocatoria extraordinaria, se regirá conforme a lo recogido en el artículo 10.
+4. La convocatoria debe comunicarse 15 días antes de la fecha de la reunión, individualmente y mediante un email dirigido a todos los asociados.
 
 5. Las reuniones de la Asamblea General, serán presididas por el Presidente de la Junta Directiva; en caso de ausencia del mismo, dicha presidencia será ejercida por el Vicepresidente; en caso de ausencia de ambos, por el miembro de la Junta Directiva que la Asamblea decida.
 
@@ -170,15 +168,13 @@ La Asamblea General tiene potestad para:
 
 4. Cualquier modificación de los presentes Estatutos habrá de verse refrendada por la Asamblea General, válidamente constituida con la asistencia de al menos la mitad de los asociados, mediante el voto favorable de una mayoría cualificada de 2/3 de los asociados presentes.
 
-5. Para adoptar acuerdos sobre la disolución de Nobodies, la disposición y enajenación de sus bienes, será necesario contar con el número de votos establecido en el artículo 32.
+5. Para adoptar acuerdos sobre la disolución de Nobodies, la disposición y enajenación de sus bienes, será necesario contar con el número de votos establecido en el artículo 33.
 
 6. La representación al respecto del Ministerio del Interior (conforme a lo recogido en la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación) a los efectos referidos a comunicar toda modificación estatutaria de Nobodies, de los componentes de la Junta Directiva, o de la eventual disolución de la Asociación corresponde al Secretario de la Junta Directiva o, en su defecto, a cualquier otro miembro de la Junta que ésta designe expresamente para tal fin, y únicamente bajo mandato específico otorgado por la Asamblea General.
 
 ---
 
-### Sección Segunda
-
-### De la Junta Directiva
+### Sección Segunda — De la Junta Directiva
 
 ### Artículo 11. Composición y Elección de la Junta Directiva.
 
@@ -248,7 +244,7 @@ La Junta Directiva tiene las siguientes facultades:
 
 9. Nombrar a los miembros de la Asociación que deban encargarse de cada grupo de trabajo, a propuesta de los mismos grupos.
 
-10. Abrir cuentas corrientes y libretas de ahorros en cualquier establecimiento de crédito o de ahorro y disponer de los fondos existentes en este depósito. La disposición de los fondos se determina en el artículo 28.
+10. Abrir cuentas corrientes y libretas de ahorros en cualquier establecimiento de crédito o de ahorro y disponer de los fondos existentes en este depósito. La disposición de los fondos se determina en el artículo 31.
 
 11. Resolver provisionalmente cualquier caso que no hayan previsto los estatutos y dar cuenta de ello en la inmediatamente consiguiente reunión que se convoque de la Asamblea General.
 
@@ -266,7 +262,7 @@ La Junta Directiva tiene las siguientes facultades:
 
 2. Los miembros de la Junta Directiva están obligados a asistir a todas las reuniones que se convoquen, aunque, por causas justificadas, pueden excusarse. La asistencia del Presidente o bien del Secretario, o en su caso de las personas que los sustituyan, previa delegación por éstos, es necesaria siempre.
 
-3. La Junta Directiva toma los acuerdos por mayoría simple de votos de los asistentes. En caso de empate se considerará el voto del Presidente de la Junta Directiva o la persona por éste delgada, como voto de calidad con capacidad de desempate.
+3. La Junta Directiva toma los acuerdos por mayoría simple de votos de los asistentes. En caso de empate se considerará el voto del Presidente de la Junta Directiva o la persona por éste delegada, como voto de calidad con capacidad de desempate.
 
 ### Artículo 16. Delegación de Facultades y Designación de Representantes.
 
@@ -430,7 +426,7 @@ Son derechos de los colaboradores:
 
    d. Cuando el asociado o colaborador intente hacer uso de Nobodies o de su condición de miembro para fines que no estén expresados en el artículo 2.
 
-2. Cuando la baja sea por los motivos mencionados en los puntos 3 y 4 de este artículo, será preceptiva la apertura de expediente por decisión de la Junta Directiva; y la persona afectada deberá ser escuchada si lo solicita. El acuerdo definitivo de baja se tomará en Asamblea General a propuesta de la Junta Directiva, y sólo se ratificará por acuerdo de dicha Asamblea, por una mayoría cualificada de 2/3 de los asociados presentes en la misma.
+2. Cuando la baja sea por los motivos mencionados en los apartados c) y d) del punto 1 de este artículo, será preceptiva la apertura de expediente por decisión de la Junta Directiva; y la persona afectada deberá ser escuchada si lo solicita. El acuerdo definitivo de baja se tomará en Asamblea General a propuesta de la Junta Directiva, y sólo se ratificará por acuerdo de dicha Asamblea, por una mayoría cualificada de 2/3 de los asociados presentes en la misma.
 
 ---
 
@@ -490,7 +486,7 @@ La disposición de fondos se regirá por la Política de Grandes Gastos establec
 
 1. La Junta Directiva puede sancionar las infracciones cometidas por los miembros.
 
-2. Estas infracciones pueden calificarse de leves, graves y muy graves, y las sanciones correspondientes pueden ir desde una amonestación hasta la expulsión de la Asociación, decisión que deberá ser ratificada por la Asamblea General (artículo 8).
+2. Estas infracciones pueden calificarse de leves, graves y muy graves, y las sanciones correspondientes pueden ir desde una amonestación hasta la expulsión de la Asociación, decisión que deberá ser ratificada por la Asamblea General (artículos 7.8 y 26.2).
 
 3. El procedimiento sancionador se inicia de oficio o como consecuencia de una denuncia o comunicación presentada por cualquier asociado, y que podrá ser anónima, pero deberá ser motivada. En el plazo de 10 días, la Junta Directiva nombrará a una persona perteneciente a la Asociación, que tramitará el expediente sancionador. Se convocará a la persona asociada sujeta a procedimiento sancionador para transmitir sus alegaciones y a quien haya presentado la solicitud de sanción en los siguientes veintiún días naturales, y se arbitrará la resolución del expediente, en un plazo no superior a 45 días tras el nombramiento de la persona responsable de la persona al cargo del expediente.
 

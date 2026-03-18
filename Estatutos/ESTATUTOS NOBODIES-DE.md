@@ -90,9 +90,7 @@ Die Organe der Vereinsführung und Vertretung sind:
 
 ---
 
-### Erster Abschnitt
-
-### Die Mitgliederversammlung
+### Erster Abschnitt — Die Mitgliederversammlung
 
 ### Artikel 5. Zusammensetzung und Struktur der Mitgliederversammlung.
 
@@ -130,7 +128,7 @@ Die Mitgliederversammlung ist befugt:
 
 7. Das Reglement der internen Ordnung mit Mehrheit zu genehmigen, zu bestätigen, zu beachten und durchzusetzen.
 
-8. Den Ausschluss oder die endgültige Trennung von Mitgliedern gemäß Artikel 25 nach vorherigem Verfahren zu beschließen.
+8. Den Ausschluss oder die endgültige Trennung von Mitgliedern gemäß Artikel 26 nach vorherigem Verfahren zu beschließen.
 
 9. Über alle sonstigen Angelegenheiten zu entscheiden, die nicht ausdrücklich einem anderen Organ von Nobodies zugewiesen sind.
 
@@ -144,7 +142,7 @@ Die Mitgliederversammlung ist befugt:
 
 3. Die Versammlung wird vom Vorstand durch eine Einberufung einberufen, die mindestens die Tagesordnung, den Ort (kann auch per Fernkommunikation erfolgen, wobei in diesem Fall die Zugangsinformationen mitzuteilen sind), das Datum und die Uhrzeit der Sitzung enthält.
 
-4. Die Einberufung muss 15 Tage vor dem Sitzungstermin individuell per E-Mail an alle Mitglieder mitgeteilt werden. Bei einer außerordentlichen Einberufung gilt die Regelung gemäß Artikel 10.
+4. Die Einberufung muss 15 Tage vor dem Sitzungstermin individuell per E-Mail an alle Mitglieder mitgeteilt werden.
 
 5. Die Sitzungen der Mitgliederversammlung werden vom Vorsitzenden des Vorstands geleitet; bei dessen Abwesenheit übernimmt der stellvertretende Vorsitzende den Vorsitz; bei Abwesenheit beider das Vorstandsmitglied, das die Versammlung bestimmt.
 
@@ -172,15 +170,13 @@ Die Mitgliederversammlung ist befugt:
 
 4. Jede Änderung dieser Satzung bedarf der Bestätigung durch die ordnungsgemäß mit mindestens der Hälfte der Mitglieder konstituierte Mitgliederversammlung mit einer qualifizierten Mehrheit von 2/3 der anwesenden Mitglieder.
 
-5. Für Beschlüsse über die Auflösung von Nobodies sowie die Verfügung und Veräußerung seines Vermögens ist die in Artikel 32 festgelegte Stimmenzahl erforderlich.
+5. Für Beschlüsse über die Auflösung von Nobodies sowie die Verfügung und Veräußerung seines Vermögens ist die in Artikel 33 festgelegte Stimmenzahl erforderlich.
 
 6. Die Vertretung gegenüber dem Innenministerium (gemäß dem Organgesetz 1/2002 vom 22. März über das Vereinigungsrecht) hinsichtlich der Mitteilung jeglicher Satzungsänderungen von Nobodies, der Zusammensetzung des Vorstands oder der etwaigen Auflösung des Vereins obliegt dem Sekretär des Vorstands oder, ersatzweise, einem anderen vom Vorstand ausdrücklich zu diesem Zweck benannten Vorstandsmitglied, und ausschließlich auf der Grundlage eines spezifischen Mandats der Mitgliederversammlung.
 
 ---
 
-### Zweiter Abschnitt
-
-### Der Vorstand
+### Zweiter Abschnitt — Der Vorstand
 
 ### Artikel 11. Zusammensetzung und Wahl des Vorstands.
 
@@ -250,7 +246,7 @@ Der Vorstand hat folgende Befugnisse:
 
 9. Die Vereinsmitglieder zu benennen, die für jede Arbeitsgruppe verantwortlich sein sollen, auf Vorschlag der Gruppen selbst.
 
-10. Konten und Sparbücher bei Kredit- oder Sparinstituten zu eröffnen und über die dort vorhandenen Mittel zu verfügen. Die Verfügung über Mittel wird in Artikel 28 geregelt.
+10. Konten und Sparbücher bei Kredit- oder Sparinstituten zu eröffnen und über die dort vorhandenen Mittel zu verfügen. Die Verfügung über Mittel wird in Artikel 31 geregelt.
 
 11. Alle Fälle vorläufig zu regeln, die in der Satzung nicht vorgesehen sind, und darüber in der unmittelbar folgenden Mitgliederversammlung zu berichten.
 
@@ -432,7 +428,7 @@ Die Förderer haben folgende Rechte:
 
    d. Wenn das Mitglied oder der Förderer versucht, Nobodies oder seine Mitgliedschaft für Zwecke zu nutzen, die nicht in Artikel 2 genannt sind.
 
-2. Wenn das Ausscheiden aus den in den Punkten 3 und 4 dieses Artikels genannten Gründen erfolgt, ist die Einleitung eines Verfahrens durch Beschluss des Vorstands erforderlich; die betroffene Person muss auf Antrag angehört werden. Der endgültige Ausschlussbeschluss wird in der Mitgliederversammlung auf Vorschlag des Vorstands gefasst und bedarf der Bestätigung durch diese Versammlung mit einer qualifizierten Mehrheit von 2/3 der anwesenden Mitglieder.
+2. Wenn das Ausscheiden aus den in den Buchstaben c) und d) des Absatzes 1 dieses Artikels genannten Gründen erfolgt, ist die Einleitung eines Verfahrens durch Beschluss des Vorstands erforderlich; die betroffene Person muss auf Antrag angehört werden. Der endgültige Ausschlussbeschluss wird in der Mitgliederversammlung auf Vorschlag des Vorstands gefasst und bedarf der Bestätigung durch diese Versammlung mit einer qualifizierten Mehrheit von 2/3 der anwesenden Mitglieder.
 
 ---
 
@@ -492,7 +488,7 @@ Die Verfügung über Mittel richtet sich nach der vom Vorstand und dem Schatzmei
 
 1. Der Vorstand kann Verfehlungen der Mitglieder ahnden.
 
-2. Diese Verfehlungen können als leicht, schwer und sehr schwer eingestuft werden, und die entsprechenden Sanktionen reichen von einer Ermahnung bis zum Ausschluss aus dem Verein, wobei diese Entscheidung von der Mitgliederversammlung bestätigt werden muss (Artikel 8).
+2. Diese Verfehlungen können als leicht, schwer und sehr schwer eingestuft werden, und die entsprechenden Sanktionen reichen von einer Ermahnung bis zum Ausschluss aus dem Verein, wobei diese Entscheidung von der Mitgliederversammlung bestätigt werden muss (Artikel 7.8 und 26.2).
 
 3. Das Sanktionsverfahren wird von Amts wegen oder aufgrund einer Anzeige oder Mitteilung eines Mitglieds eingeleitet, die anonym sein kann, aber begründet sein muss. Innerhalb von 10 Tagen benennt der Vorstand eine dem Verein angehörige Person, die das Sanktionsverfahren durchführt. Das Mitglied, gegen das sich das Sanktionsverfahren richtet, und die Person, die den Sanktionsantrag gestellt hat, werden innerhalb der folgenden einundzwanzig Kalendertage zur Anhörung geladen, und das Verfahren wird innerhalb von höchstens 45 Tagen nach Benennung der für das Verfahren verantwortlichen Person abgeschlossen.
 
