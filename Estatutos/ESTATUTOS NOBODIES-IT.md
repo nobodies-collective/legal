@@ -140,11 +140,11 @@ L'Assemblea Generale ha il potere di:
 
 2. L'organo di governo può convocare l'Assemblea Generale in via straordinaria ogni volta che lo ritenga opportuno, e deve farlo quando lo richiedano almeno la metà degli associati; in tal caso, l'Assemblea avrà luogo entro trenta giorni dalla richiesta.
 
-   Tale Assemblea potrà riunirsi sia in presenza che in modalità telematica. Parimenti, sarà in ogni caso consentito l'uso di mezzi di voto elettronico o a distanza per l'adozione delle delibere, purché nessun partecipante manifesti espressamente la propria opposizione a tale sistema e sia garantita l'identità degli associati e la validità del voto espresso.
+   Tale Assemblea potrà riunirsi sia in presenza che in modalità telematica. Parimenti, sarà in ogni caso consentito l'uso di mezzi di voto elettronico o a distanza per l'adozione delle delibere, salvo che la maggioranza dei partecipanti presenti manifesti espressamente la propria opposizione a tale sistema, e purché sia garantita l'identità degli associati e la validità del voto espresso.
 
 3. L'Assemblea sarà convocata dal Consiglio Direttivo mediante convocazione che conterrà, come minimo, l'ordine del giorno, il luogo (potendo essere telematica, fornendo in tal caso le istruzioni di accesso), la data e l'ora della riunione.
 
-4. La convocazione deve essere comunicata 15 giorni prima della data della riunione, individualmente e mediante email indirizzata a tutti gli associati. In caso di convocazione straordinaria, si applicherà quanto previsto dall'articolo 10.
+4. La convocazione deve essere comunicata 15 giorni prima della data della riunione, individualmente e mediante posta elettronica o altro mezzo di comunicazione digitale indirizzata a tutti gli associati.
 
 5. Le riunioni dell'Assemblea Generale saranno presiedute dal Presidente del Consiglio Direttivo; in caso di sua assenza, la presidenza sarà esercitata dal Vicepresidente; in caso di assenza di entrambi, dal membro del Consiglio Direttivo che l'Assemblea deciderà.
 

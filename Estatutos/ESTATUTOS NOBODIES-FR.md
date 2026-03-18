@@ -140,11 +140,11 @@ L'Assemblée Générale a le pouvoir de :
 
 2. L'organe de gouvernance peut convoquer l'Assemblée Générale à titre extraordinaire chaque fois qu'il le juge opportun, et doit le faire lorsque la moitié au moins des associés le demandent ; dans ce cas, l'Assemblée aura lieu dans un délai de trente jours à compter de la demande.
 
-   Ladite Assemblée pourra se réunir aussi bien en présentiel qu'en distanciel. De même, l'utilisation de moyens de vote électronique ou à distance pour l'adoption de résolutions sera en tout cas autorisée, à condition qu'aucun participant n'exprime expressément son opposition à ce système et que l'identité des associés et la validité du vote émis soient dûment garanties.
+   Ladite Assemblée pourra se réunir aussi bien en présentiel qu'en distanciel. De même, l'utilisation de moyens de vote électronique ou à distance pour l'adoption de résolutions sera en tout cas autorisée, sauf si la majorité des participants présents exprime expressément son opposition à ce système, et à condition que l'identité des associés et la validité du vote émis soient dûment garanties.
 
 3. L'Assemblée sera convoquée par le Conseil d'Administration au moyen d'une convocation qui contiendra, au minimum, l'ordre du jour, le lieu (pouvant être en distanciel, auquel cas les instructions d'accès seront fournies), la date et l'heure de la réunion.
 
-4. La convocation doit être communiquée 15 jours avant la date de la réunion, individuellement et par courrier électronique adressé à tous les associés. En cas de convocation extraordinaire, elle sera régie conformément aux dispositions de l'article 10.
+4. La convocation doit être communiquée 15 jours avant la date de la réunion, individuellement et par courrier électronique ou autre moyen de communication numérique adressé à tous les associés.
 
 5. Les réunions de l'Assemblée Générale seront présidées par le Président du Conseil d'Administration ; en cas d'absence de celui-ci, la présidence sera exercée par le Vice-Président ; en cas d'absence des deux, par le membre du Conseil d'Administration que l'Assemblée désignera.
 
