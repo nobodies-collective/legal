@@ -262,6 +262,8 @@ The Board of Trustees has the following powers:
 
 2. It shall meet in extraordinary session when convened as such by the President, or if requested by one third of its members.
 
+3. Meetings of the Board of Trustees may be held either in person or by videoconference or other telematic means.
+
 ### Article 15. Formation and Adoption of Resolutions of the Board of Trustees.
 
 1. The Board of Trustees shall be validly constituted if it has been duly convened and there is a quorum of half plus one of its members.
