@@ -270,6 +270,8 @@ The Board of Trustees has the following powers:
 
 3. The Board of Trustees adopts its resolutions by simple majority of the votes of those present. In the event of a tie, the vote of the President of the Board of Trustees, or of the person designated by them, shall be deemed a casting vote with tie-breaking effect.
 
+4. The Board of Trustees may adopt resolutions without holding a meeting when all of its members express in writing, including by electronic means, their favourable vote on the proposed resolution. The Secretary shall record such resolutions in the corresponding minutes.
+
 ### Article 16. Delegation of Powers and Appointment of Representatives.
 
 1. The Board of Trustees may delegate some of its powers to one or more committees or working groups if it has the favourable vote of two-thirds of its members.
