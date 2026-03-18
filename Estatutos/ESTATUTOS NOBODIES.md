@@ -174,6 +174,8 @@ La Asamblea General tiene potestad para:
 
 6. La representación al respecto del Ministerio del Interior (conforme a lo recogido en la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación) a los efectos referidos a comunicar toda modificación estatutaria de Nobodies, de los componentes de la Junta Directiva, o de la eventual disolución de la Asociación corresponde al Secretario de la Junta Directiva o, en su defecto, a cualquier otro miembro de la Junta que ésta designe expresamente para tal fin, y únicamente bajo mandato específico otorgado por la Asamblea General.
 
+7. Los asociados podrán emitir su voto sobre los puntos del orden del día con anterioridad a la celebración de la Asamblea General, siempre que se garantice su identidad y la validez del voto. Dichos votos anticipados se computarán junto con los emitidos durante la sesión.
+
 ---
 
 ### Sección Segunda
