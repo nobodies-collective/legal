@@ -162,6 +162,8 @@ The General Assembly has the power to:
 
 2. A request for the additional inclusion on the agenda of one or more items to be discussed may be made by any member, provided that at least 20% of the members take part in said request. If the Assembly has already been convened, such request may be submitted to the Board of Trustees up to 15 calendar days before the date on which this body is to meet. The Assembly may only adopt resolutions on the items included on the agenda, unless it has been constituted as a universal meeting or the resolutions refer to the convening of a new General Assembly. Items that have been discussed but not included on the agenda must be included —and, where appropriate, voted on and endorsed— at the next Assembly, whether ordinary or extraordinary.
 
+3. The General Assembly shall be validly constituted as a Universal Assembly when all members of the Association are present or represented and unanimously agree to hold the meeting and to the proposed agenda, without the need to comply with the formal notice requirements set out in Article 8.
+
 ### Article 10. Voting and Adoption of Resolutions of the General Assembly.
 
 1. At meetings of the General Assembly, each member is entitled to one vote.

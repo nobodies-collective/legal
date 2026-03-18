@@ -160,6 +160,8 @@ La Asamblea General tiene potestad para:
 
 2. La solicitud de inclusión adicional en el orden del día de uno o más asuntos a tratar podrá ser llevada a cabo por cualquier asociado, si en dicha solicitud participa al menos un 20% de los miembros. En caso de que ya se haya convocado la Asamblea, dicha solicitud se puede presentar a la Junta Directiva hasta 15 días naturales antes de la fecha en que este órgano debe reunirse. La Asamblea únicamente podrá adoptar acuerdos respecto a los puntos incluidos en el orden del día, salvo que se haya constituido con carácter universal o que los acuerdos se refieran a la convocatoria de nueva Asamblea General. Aquellos puntos que se hayan tratado y no hayan sido incluidos en el orden del día habrán de ser incluidos -y en su caso, votados y refrendados- en la siguiente Asamblea, sea esta ordinaria o extraordinaria.
 
+3. La Asamblea General quedará válidamente constituida con carácter universal cuando estén presentes o representados todos los miembros de la Asociación y acepten por unanimidad la celebración de la reunión y el orden del día propuesto, sin necesidad de cumplir los requisitos formales de convocatoria previstos en el artículo 8.
+
 ### Artículo 10. Votación y Adopción de Acuerdos de la Asamblea General.
 
 1. En las reuniones de la Asamblea General, corresponde un voto a cada asociado.
