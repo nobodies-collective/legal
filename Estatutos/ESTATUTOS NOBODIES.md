@@ -114,7 +114,7 @@ Los órganos de gobierno y representación de la Asociación son, respectivament
 
 La Asamblea General tiene potestad para:
 
-1. Modificar los presentes estatutos de la Asociación. Para ello será necesaria la presencia de la mitad de los miembros y mayoría cualificada de 2/3 de los votos de los presentes a favor.
+1. Modificar los presentes estatutos de la Asociación. Para ello será necesaria mayoría cualificada de 2/3 de los votos de los presentes a favor, en Asamblea General válidamente constituida conforme al artículo 9.
 
 2. Elegir a miembros del órgano de gobierno (junta directiva) y supervisar su actividad.
 
@@ -138,7 +138,7 @@ La Asamblea General tiene potestad para:
 
 2. El órgano de gobierno puede convocar la Asamblea General con carácter extraordinario siempre que lo considere conveniente, y debe hacerlo cuando lo soliciten, al menos, la mitad de los asociados; en este caso, la Asamblea tendrá lugar dentro del plazo de treinta días a contar desde la solicitud.
 
-   Dicha Asamblea podrá reunirse tanto de manera presencial como telemática. Asimismo, se permitirá en todo caso el uso de medios de voto electrónico o a distancia para la adopción de acuerdos, siempre que ningún participante manifieste expresamente su oposición a este sistema y se garantice la identidad de los asociados y la validez del voto emitido.
+   Dicha Asamblea podrá reunirse tanto de manera presencial como telemática. Asimismo, se permitirá en todo caso el uso de medios de voto electrónico o a distancia para la adopción de acuerdos, siempre que ningún participante manifieste expresamente su oposición a este sistema y se garantice la identidad de los asociados y la validez del voto emitido. El plazo para emitir el voto electrónico o a distancia podrá extenderse por el período que establezca la convocatoria.
 
 3. La Asamblea será convocada por la Junta Directiva mediante convocatoria que contendrá, como mínimo, el orden del día, lugar (pudiendo ser telemática, facilitando en dicho caso las instrucciones de acceso), fecha y hora de la reunión.
 
@@ -168,7 +168,7 @@ La Asamblea General tiene potestad para:
 
 3. Cualquier asociado puede delegar su voto en otro asociado asistente a la Asamblea, siempre que dicha delegación se haya notificado por ambos implicados a la Junta Directiva con al menos 24 horas de antelación a la celebración de la Asamblea.
 
-4. Cualquier modificación de los presentes Estatutos habrá de verse refrendada por la Asamblea General, válidamente constituida con la asistencia de al menos la mitad de los asociados, mediante el voto favorable de una mayoría cualificada de 2/3 de los asociados presentes.
+4. Cualquier modificación de los presentes Estatutos habrá de verse refrendada por la Asamblea General, válidamente constituida conforme al artículo 9, mediante el voto favorable de una mayoría cualificada de 2/3 de los asociados presentes.
 
 5. Para adoptar acuerdos sobre la disolución de Nobodies, la disposición y enajenación de sus bienes, será necesario contar con el número de votos establecido en el artículo 32.
 

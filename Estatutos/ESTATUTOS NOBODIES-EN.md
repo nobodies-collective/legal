@@ -116,7 +116,7 @@ The governing and representative bodies of the Association are, respectively:
 
 The General Assembly has the power to:
 
-1. Amend these Statutes of the Association. For this purpose, the presence of half of the members and a qualified majority of 2/3 of the votes of those present in favour shall be required.
+1. Amend these Statutes of the Association. For this purpose, a qualified majority of 2/3 of the votes of those present in favour shall be required, at a General Assembly validly constituted in accordance with Article 9.
 
 2. Elect the members of the governing body (Board of Trustees) and supervise its activity.
 
@@ -140,7 +140,7 @@ The General Assembly has the power to:
 
 2. The governing body may convene the General Assembly on an extraordinary basis whenever it deems it appropriate, and must do so when requested by, at least, half of the members; in this case, the Assembly shall take place within thirty days from the request.
 
-   Such Assembly may be held either in person or by telematic means. Likewise, the use of electronic or remote voting methods shall be permitted in all cases for the adoption of resolutions, provided that no participant expressly objects to this system and that the identity of the members and the validity of the votes cast are duly guaranteed.
+   Such Assembly may be held either in person or by telematic means. Likewise, the use of electronic or remote voting methods shall be permitted in all cases for the adoption of resolutions, provided that no participant expressly objects to this system and that the identity of the members and the validity of the votes cast are duly guaranteed. The period for casting electronic or remote votes may be extended for the duration specified in the notice of meeting.
 
 3. The Assembly shall be convened by the Board of Trustees by means of a notice that shall contain, at least, the agenda, the place (which may be online, in which case the access instructions shall be provided), date and time of the meeting.
 
@@ -170,7 +170,7 @@ The General Assembly has the power to:
 
 3. Any member may delegate his or her vote to another member attending the Assembly, provided that such delegation has been notified by both parties to the Board of Trustees at least 24 hours prior to the Assembly.
 
-4. Any amendment to these Statutes must be endorsed by the General Assembly, validly constituted with the attendance of at least half of the members, by the affirmative vote of a qualified majority of 2/3 of the members present.
+4. Any amendment to these Statutes must be endorsed by the General Assembly, validly constituted in accordance with Article 9, by the affirmative vote of a qualified majority of 2/3 of the members present.
 
 5. To adopt resolutions on the dissolution of Nobodies, and on the disposal and transfer of its assets, the number of votes established in Article 32 shall be required.
 
