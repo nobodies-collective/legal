@@ -90,9 +90,7 @@ The governing and representative bodies of the Association are, respectively:
 
 ---
 
-### Section One
-
-### On the General Assembly
+### Section One — On the General Assembly
 
 ### Article 5. Composition and Structure of the General Assembly.
 
@@ -130,7 +128,7 @@ The General Assembly has the power to:
 
 7. Approve by majority vote, endorse, observe and ultimately ensure compliance with the Internal Regulations.
 
-8. Decide on the removal or definitive separation, after the appropriate proceedings, of members, in accordance with the provisions in Article 25.
+8. Decide on the removal or definitive separation, after the appropriate proceedings, of members, in accordance with the provisions in Article 26.
 
 9. Decide on any other matter not directly attributed to any other body within Nobodies.
 
@@ -174,7 +172,7 @@ The General Assembly has the power to:
 
 4. Any amendment to these Statutes must be endorsed by the General Assembly, validly constituted with the attendance of at least half of the members, by the affirmative vote of a qualified majority of 2/3 of the members present.
 
-5. To adopt resolutions on the dissolution of Nobodies, and on the disposal and transfer of its assets, the number of votes established in Article 32 shall be required.
+5. To adopt resolutions on the dissolution of Nobodies, and on the disposal and transfer of its assets, the number of votes established in Article 33 shall be required.
 
 6. Representation before the Ministry of the Interior (in accordance with Organic Law 1/2002, of 22 March, regulating the Right of Association) for the purposes of notifying any amendment to the Statutes of Nobodies, changes in the members of the Board of Trustees, or the possible dissolution of the Association, corresponds to the Secretary of the Board of Trustees, or, alternatively, to any other member of the Board expressly appointed by the Board for this purpose, and only under the relevant mandate from the General Assembly.
 
@@ -182,9 +180,7 @@ The General Assembly has the power to:
 
 ---
 
-### Section Two
-
-### Of the Board of Trustees
+### Section Two — Of the Board of Trustees
 
 ### Article 11. Composition and Election of the Board of Trustees.
 
@@ -254,7 +250,7 @@ The Board of Trustees has the following powers:
 
 9. To appoint, at the proposal of the working groups themselves, the members of the Association who shall be in charge of each working group.
 
-10. To open current accounts and savings accounts in any credit or savings institution and to dispose of the funds deposited therein. The use of these funds is determined in Article 28.
+10. To open current accounts and savings accounts in any credit or savings institution and to dispose of the funds deposited therein. The use of these funds is determined in Article 31.
 
 11. To provisionally resolve any matter not foreseen in the Statutes and report on it at the immediately following meeting of the General Assembly that is convened.
 
@@ -440,7 +436,7 @@ Collaborators shall have the following rights:
 
    d. When the member or collaborator attempts to use Nobodies or their status as a member for purposes not set out in Article 2.
 
-2. When termination is due to the reasons mentioned in points 3 and 4 of this article, it shall be mandatory to open a file by decision of the Board of Trustees; the person concerned must be heard if they so request. The final decision on termination shall be taken by the General Assembly at the proposal of the Board of Trustees, and shall only be ratified by a resolution of said Assembly, by a qualified majority of 2/3 of the members present.
+2. When termination is due to the reasons mentioned in sub-paragraphs (c) and (d) of paragraph 1 of this article, it shall be mandatory to open a file by decision of the Board of Trustees; the person concerned must be heard if they so request. The final decision on termination shall be taken by the General Assembly at the proposal of the Board of Trustees, and shall only be ratified by a resolution of said Assembly, by a qualified majority of 2/3 of the members present.
 
 ---
 
@@ -500,7 +496,7 @@ The disposal of funds shall be governed by the Large Expense Policy established 
 
 1. The Board of Trustees may sanction offences committed by members.
 
-2. These offences may be classified as minor, serious or very serious, and the corresponding sanctions may range from a warning to expulsion from the Association, a decision that must be ratified by the General Assembly (Article 8).
+2. These offences may be classified as minor, serious or very serious, and the corresponding sanctions may range from a warning to expulsion from the Association, a decision that must be ratified by the General Assembly (Articles 7.8 and 26.2).
 
 3. The disciplinary procedure shall be initiated ex officio or as a result of a complaint or communication submitted by any member, which may be anonymous, but needs to be motivated. Within 10 days, the Board of Trustees shall appoint a person belonging to the Association to handle the disciplinary file. The member subject to the disciplinary procedure shall be summoned to present their arguments, as shall the person who submitted the request for sanctions, within the following twenty-one calendar days, and a decision on the file shall be issued within no more than 45 days from the appointment of the person responsible for the file.
 

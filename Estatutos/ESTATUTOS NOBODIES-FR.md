@@ -90,9 +90,7 @@ Les organes de gouvernance et de représentation de l'Association sont, respecti
 
 ---
 
-### Section Première
-
-### De l'Assemblée Générale
+### Section Première — De l'Assemblée Générale
 
 ### Article 5. Composition et Structure de l'Assemblée Générale.
 
@@ -130,7 +128,7 @@ L'Assemblée Générale a le pouvoir de :
 
 7. Approuver à la majorité, entériner, observer et faire respecter en dernier ressort le Règlement Intérieur.
 
-8. Décider de la radiation ou de la séparation définitive, après procédure, des associés, conformément aux dispositions de l'article 25.
+8. Décider de la radiation ou de la séparation définitive, après procédure, des associés, conformément aux dispositions de l'article 26.
 
 9. Statuer sur toute autre question qui ne soit pas directement attribuée à un autre organe au sein de Nobodies.
 
@@ -172,15 +170,13 @@ L'Assemblée Générale a le pouvoir de :
 
 4. Toute modification des présents Statuts devra être entérinée par l'Assemblée Générale, valablement constituée avec la présence d'au moins la moitié des associés, par le vote favorable d'une majorité qualifiée de 2/3 des associés présents.
 
-5. Pour adopter des résolutions relatives à la dissolution de Nobodies, à la disposition et à l'aliénation de ses biens, le nombre de voix établi à l'article 32 sera requis.
+5. Pour adopter des résolutions relatives à la dissolution de Nobodies, à la disposition et à l'aliénation de ses biens, le nombre de voix établi à l'article 33 sera requis.
 
 6. La représentation auprès du Ministère de l'Intérieur (conformément à la Loi Organique 1/2002 du 22 mars, réglementant le Droit d'Association) aux fins de communiquer toute modification statutaire de Nobodies, des membres du Conseil d'Administration, ou de l'éventuelle dissolution de l'Association, incombe au Secrétaire du Conseil d'Administration ou, à défaut, à tout autre membre du Conseil expressément désigné par celui-ci à cette fin, et uniquement sur mandat spécifique octroyé par l'Assemblée Générale.
 
 ---
 
-### Section Deuxième
-
-### Du Conseil d'Administration
+### Section Deuxième — Du Conseil d'Administration
 
 ### Article 11. Composition et Élection du Conseil d'Administration.
 
@@ -250,7 +246,7 @@ Le Conseil d'Administration dispose des attributions suivantes :
 
 9. Nommer les membres de l'Association devant être responsables de chaque groupe de travail, sur proposition des groupes eux-mêmes.
 
-10. Ouvrir des comptes courants et des livrets d'épargne dans tout établissement de crédit ou d'épargne et disposer des fonds existants dans ces dépôts. L'utilisation des fonds est déterminée à l'article 28.
+10. Ouvrir des comptes courants et des livrets d'épargne dans tout établissement de crédit ou d'épargne et disposer des fonds existants dans ces dépôts. L'utilisation des fonds est déterminée à l'article 31.
 
 11. Résoudre provisoirement toute question non prévue par les statuts et en rendre compte lors de la réunion de l'Assemblée Générale immédiatement suivante qui sera convoquée.
 
@@ -432,7 +428,7 @@ Les droits des collaborateurs sont :
 
    d. Lorsque l'associé ou le collaborateur tente de faire usage de Nobodies ou de sa qualité de membre à des fins non prévues à l'article 2.
 
-2. Lorsque la radiation est motivée par les raisons mentionnées aux points 3 et 4 du présent article, l'ouverture d'un dossier par décision du Conseil d'Administration sera obligatoire ; et la personne concernée devra être entendue si elle le demande. La décision définitive de radiation sera prise en Assemblée Générale sur proposition du Conseil d'Administration, et ne sera ratifiée que par résolution de ladite Assemblée, à la majorité qualifiée de 2/3 des associés présents.
+2. Lorsque la radiation est motivée par les raisons mentionnées aux alinéas c) et d) du point 1 du présent article, l'ouverture d'un dossier par décision du Conseil d'Administration sera obligatoire ; et la personne concernée devra être entendue si elle le demande. La décision définitive de radiation sera prise en Assemblée Générale sur proposition du Conseil d'Administration, et ne sera ratifiée que par résolution de ladite Assemblée, à la majorité qualifiée de 2/3 des associés présents.
 
 ---
 
@@ -492,7 +488,7 @@ La disposition des fonds sera régie par la Politique des Dépenses Importantes 
 
 1. Le Conseil d'Administration peut sanctionner les infractions commises par les membres.
 
-2. Ces infractions peuvent être qualifiées de légères, graves et très graves, et les sanctions correspondantes peuvent aller de l'avertissement à l'exclusion de l'Association, décision qui devra être ratifiée par l'Assemblée Générale (article 8).
+2. Ces infractions peuvent être qualifiées de légères, graves et très graves, et les sanctions correspondantes peuvent aller de l'avertissement à l'exclusion de l'Association, décision qui devra être ratifiée par l'Assemblée Générale (articles 7.8 et 26.2).
 
 3. La procédure disciplinaire est initiée d'office ou à la suite d'une plainte ou communication présentée par tout associé, qui pourra être anonyme mais devra être motivée. Dans un délai de 10 jours, le Conseil d'Administration nommera une personne appartenant à l'Association, qui instruira le dossier disciplinaire. La personne associée faisant l'objet de la procédure disciplinaire sera convoquée pour présenter ses arguments, ainsi que la personne ayant présenté la demande de sanction, dans les vingt et un jours calendaires suivants, et la résolution du dossier sera rendue dans un délai ne dépassant pas 45 jours à compter de la nomination de la personne responsable du dossier.
 

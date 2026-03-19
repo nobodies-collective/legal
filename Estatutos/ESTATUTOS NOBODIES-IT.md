@@ -90,9 +90,7 @@ Gli organi di governo e rappresentanza dell'Associazione sono, rispettivamente:
 
 ---
 
-### Sezione Prima
-
-### Dell'Assemblea Generale
+### Sezione Prima — Dell'Assemblea Generale
 
 ### Articolo 5. Composizione e Struttura dell'Assemblea Generale.
 
@@ -130,7 +128,7 @@ L'Assemblea Generale ha il potere di:
 
 7. Approvare a maggioranza, ratificare, osservare e far rispettare in ultima istanza il Regolamento Interno.
 
-8. Deliberare l'esclusione o la separazione definitiva, previo procedimento, degli associati, conformemente a quanto previsto dall'articolo 25.
+8. Deliberare l'esclusione o la separazione definitiva, previo procedimento, degli associati, conformemente a quanto previsto dall'articolo 26.
 
 9. Risolvere qualsiasi altra questione che non sia direttamente attribuita a nessun altro organo all'interno di Nobodies.
 
@@ -172,15 +170,13 @@ L'Assemblea Generale ha il potere di:
 
 4. Qualsiasi modifica del presente Statuto dovrà essere ratificata dall'Assemblea Generale, validamente costituita con la partecipazione di almeno la metà degli associati, mediante il voto favorevole di una maggioranza qualificata di 2/3 degli associati presenti.
 
-5. Per adottare delibere sullo scioglimento di Nobodies, la disposizione e alienazione dei suoi beni, sarà necessario disporre del numero di voti stabilito dall'articolo 32.
+5. Per adottare delibere sullo scioglimento di Nobodies, la disposizione e alienazione dei suoi beni, sarà necessario disporre del numero di voti stabilito dall'articolo 33.
 
 6. La rappresentanza presso il Ministero dell'Interno (conformemente a quanto previsto dalla Legge Organica 1/2002, del 22 marzo, che regola il Diritto di Associazione) ai fini relativi alla comunicazione di ogni modifica statutaria di Nobodies, dei componenti del Consiglio Direttivo, o dell'eventuale scioglimento dell'Associazione, spetta al Segretario del Consiglio Direttivo o, in sua mancanza, a qualsiasi altro membro del Consiglio che questo designi espressamente a tal fine, e unicamente su mandato specifico conferito dall'Assemblea Generale.
 
 ---
 
-### Sezione Seconda
-
-### Del Consiglio Direttivo
+### Sezione Seconda — Del Consiglio Direttivo
 
 ### Articolo 11. Composizione ed Elezione del Consiglio Direttivo.
 
@@ -250,7 +246,7 @@ Il Consiglio Direttivo ha le seguenti facoltà:
 
 9. Nominare i membri dell'Associazione che debbano essere responsabili di ciascun gruppo di lavoro, su proposta degli stessi gruppi.
 
-10. Aprire conti correnti e libretti di risparmio presso qualsiasi istituto di credito o di risparmio e disporre dei fondi esistenti in tali depositi. La disposizione dei fondi è determinata dall'articolo 28.
+10. Aprire conti correnti e libretti di risparmio presso qualsiasi istituto di credito o di risparmio e disporre dei fondi esistenti in tali depositi. La disposizione dei fondi è determinata dall'articolo 31.
 
 11. Risolvere provvisoriamente qualsiasi caso non previsto dallo statuto e darne conto nella riunione dell'Assemblea Generale immediatamente successiva che sarà convocata.
 
@@ -432,7 +428,7 @@ Sono diritti dei collaboratori:
 
    d. Quando l'associato o il collaboratore tenti di utilizzare Nobodies o la propria condizione di membro per fini non espressamente previsti dall'articolo 2.
 
-2. Quando la cessazione sia dovuta ai motivi menzionati ai punti 3 e 4 del presente articolo, sarà obbligatoria l'apertura di un procedimento per decisione del Consiglio Direttivo; la persona interessata dovrà essere ascoltata se lo richiede. La delibera definitiva di cessazione sarà adottata in Assemblea Generale su proposta del Consiglio Direttivo, e sarà ratificata solo mediante delibera di tale Assemblea, con una maggioranza qualificata di 2/3 degli associati presenti alla stessa.
+2. Quando la cessazione sia dovuta ai motivi menzionati alle lettere c) e d) del punto 1 del presente articolo, sarà obbligatoria l'apertura di un procedimento per decisione del Consiglio Direttivo; la persona interessata dovrà essere ascoltata se lo richiede. La delibera definitiva di cessazione sarà adottata in Assemblea Generale su proposta del Consiglio Direttivo, e sarà ratificata solo mediante delibera di tale Assemblea, con una maggioranza qualificata di 2/3 degli associati presenti alla stessa.
 
 ---
 
@@ -492,7 +488,7 @@ La disposizione dei fondi sarà disciplinata dalla Politica delle Grandi Spese s
 
 1. Il Consiglio Direttivo può sanzionare le infrazioni commesse dai membri.
 
-2. Tali infrazioni possono essere qualificate come lievi, gravi e molto gravi, e le corrispondenti sanzioni possono andare da un richiamo fino all'espulsione dall'Associazione, decisione che dovrà essere ratificata dall'Assemblea Generale (articolo 8).
+2. Tali infrazioni possono essere qualificate come lievi, gravi e molto gravi, e le corrispondenti sanzioni possono andare da un richiamo fino all'espulsione dall'Associazione, decisione che dovrà essere ratificata dall'Assemblea Generale (articoli 7.8 e 26.2).
 
 3. Il procedimento sanzionatorio si avvia d'ufficio o a seguito di una denuncia o comunicazione presentata da qualsiasi associato, che potrà essere anonima ma dovrà essere motivata. Entro 10 giorni, il Consiglio Direttivo nominerà una persona appartenente all'Associazione che istruirà il procedimento sanzionatorio. La persona associata soggetta a procedimento sanzionatorio sarà convocata per presentare le proprie memorie difensive, così come chi abbia presentato la richiesta di sanzione, nei successivi ventuno giorni naturali, e si procederà alla risoluzione del procedimento, entro un termine non superiore a 45 giorni dalla nomina della persona responsabile a carico del procedimento.
 
