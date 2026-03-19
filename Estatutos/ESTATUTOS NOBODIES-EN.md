@@ -178,6 +178,8 @@ The General Assembly has the power to:
 
 6. Representation before the Ministry of the Interior (in accordance with Organic Law 1/2002, of 22 March, regulating the Right of Association) for the purposes of notifying any amendment to the Statutes of Nobodies, changes in the members of the Board of Trustees, or the possible dissolution of the Association, corresponds to the Secretary of the Board of Trustees, or, alternatively, to any other member of the Board expressly appointed by the Board for this purpose, and only under the relevant mandate from the General Assembly.
 
+7. Members may cast their vote on published agenda items in advance of the General Assembly meeting, provided that their identity and the validity of the vote are guaranteed. Such advance votes shall be counted alongside those cast during the session.
+
 ---
 
 ### Section Two
