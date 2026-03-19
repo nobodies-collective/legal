@@ -342,6 +342,14 @@ The Board of Trustees has the following powers:
 
 The Board of Trustees may invite to its meetings persons whose presence it considers of interest, who shall participate with a voice but without a vote. Likewise, it may create advisory bodies or committees formed by members or external experts to collaborate on specific aims of the Association.
 
+### Article 19 bis. Limitation of Liability and Indemnification.
+
+1. The members of the Board of Trustees, as well as persons acting on behalf of the Association as volunteers, working group coordinators or authorised representatives, shall not be held personally liable for any damages that may arise from actions carried out in good faith and in the legitimate exercise of their duties, except in cases of wilful misconduct, gross negligence or manifest overstepping of their competences.
+
+2. The Association shall, to the extent permitted by its resources and applicable law, hold harmless the persons referred to in the preceding paragraph against any claims, legal costs and reasonable expenses they may incur as a result of actions carried out in the performance of their duties for the Association, provided that such actions were carried out in good faith and in the interest of the Association.
+
+3. The Board of Trustees may take out a civil liability insurance policy covering the activities of the Association, including the actions of its members, directors and volunteers.
+
 ---
 
 ## CHAPTER III. COMMITTEES OR WORKING GROUPS
@@ -351,6 +359,18 @@ The Board of Trustees may invite to its meetings persons whose presence it consi
 1. The Association shall oversee the creation of committees or working groups that carry out support tasks of various kinds for it.
 
 2. The Board of Trustees shall have supervisory functions in order to analyse the different working groups, whose heads must submit to it once a year a detailed report of their activities.
+
+### Article 20 bis. Volunteer Regime for Activities and Events.
+
+1. Persons participating as volunteers in the organization of the Association's activities and events shall act under the coordination of the relevant working groups and in accordance with the instructions of the Board of Trustees.
+
+2. The Association acknowledges that volunteers act altruistically and without any employment relationship. Accordingly, and without prejudice to the provisions of Article 19 bis, the Association shall endeavour to cover, through appropriate insurance, the risks arising from volunteer activity at its events.
+
+3. Volunteers shall be informed in advance of the risks associated with their activity and of the applicable safety measures.
+
+---
+
+## CHAPTER IV. MEMBERS AND COLLABORATORS
 
 ### Article 21. Admission of Members.
 
@@ -407,6 +427,8 @@ All members shall have the following duties:
 ### Article 24. Collaborators of the Association.
 
 Without technically having the status of members, a category of collaborators is established for those persons or entities that, wishing to contribute to the maintenance and development of the Association and the promotion of its purposes, are accepted by the Board of Trustees, which shall determine the minimum amount of financial contribution, which in no case shall exceed one quarter of the membership fee. Application shall be directed to the Board of Trustees, alongside the required data, and the Board shall decide on it in a period no longer than thirty days.
+
+Collaborators are not members of the Association and shall not exercise voting rights nor participate in its governing bodies.
 
 ### Article 25. Rights of Collaborators.
 

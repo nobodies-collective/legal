@@ -334,6 +334,14 @@ Le Conseil d'Administration dispose des attributions suivantes :
 
 Le Conseil d'Administration pourra inviter à ses réunions des personnes dont la présence est jugée utile, lesquelles participeront avec voix consultative mais sans droit de vote. De même, il pourra créer des organes consultatifs ou des commissions de conseil composées de personnes associées ou d'experts externes pour collaborer à des objectifs spécifiques de l'Association.
 
+### Article 19 bis. Limitation de Responsabilité et Indemnisation.
+
+1. Les membres du Conseil d'Administration, ainsi que les personnes agissant au nom de l'Association en qualité de bénévoles, coordinateurs de groupes de travail ou représentants autorisés, ne seront pas tenus personnellement responsables des dommages pouvant résulter d'actions menées de bonne foi et dans l'exercice légitime de leurs fonctions, sauf en cas de faute intentionnelle, de négligence grave ou de dépassement manifeste de leurs compétences.
+
+2. L'Association, dans la mesure où ses ressources et la législation en vigueur le permettent, tiendra indemnes les personnes mentionnées au paragraphe précédent contre les réclamations, frais judiciaires et dépenses raisonnables qu'elles pourraient encourir du fait d'actions réalisées dans l'exercice de leurs fonctions pour l'Association, à condition que lesdites actions aient été menées de bonne foi et dans l'intérêt de celle-ci.
+
+3. Le Conseil d'Administration pourra souscrire une assurance de responsabilité civile couvrant les activités de l'Association, y compris les actions de ses membres, dirigeants et bénévoles.
+
 ---
 
 ## CHAPITRE III. COMMISSIONS OU GROUPES DE TRAVAIL
@@ -343,6 +351,18 @@ Le Conseil d'Administration pourra inviter à ses réunions des personnes dont l
 1. L'Association supervisera la création de commissions ou groupes de travail exerçant des fonctions de soutien de nature diverse à celle-ci.
 
 2. Le Conseil d'Administration exercera des fonctions de supervision afin d'analyser les différents groupes de travail, dont les responsables devront lui présenter une fois par an un rapport détaillé de leurs activités.
+
+### Article 20 bis. Régime des Bénévoles pour les Activités et Événements.
+
+1. Les personnes participant en qualité de bénévoles à l'organisation des activités et événements de l'Association agiront sous la coordination des groupes de travail correspondants et conformément aux instructions du Conseil d'Administration.
+
+2. L'Association reconnaît que les bénévoles agissent de manière altruiste et sans aucune relation de travail. En conséquence, et sans préjudice des dispositions de l'article 19 bis, l'Association s'efforcera de couvrir, par une assurance adéquate, les risques découlant de l'activité bénévole lors de ses événements.
+
+3. Les bénévoles devront être informés au préalable des risques liés à leur activité et des mesures de sécurité applicables.
+
+---
+
+## CHAPITRE IV. DES ASSOCIÉS ET COLLABORATEURS
 
 ### Article 21. Admission des Membres.
 
@@ -399,6 +419,8 @@ Les devoirs de tous les associés sont :
 ### Article 24. Collaborateurs de l'Association.
 
 Sans réunir techniquement la qualité d'associé, est établie la catégorie de collaborateurs pour les personnes ou entités qui, souhaitant contribuer au maintien et au développement de l'Association et à la promotion de ses objectifs, sont acceptées par le Conseil d'Administration, lequel déterminera la cotisation minimale de participation financière qui ne pourra en aucun cas être supérieure au quart de la cotisation d'un associé. La demande de collaboration sera adressée au Conseil d'Administration accompagnée des données nécessaires, et devra être traitée par celui-ci dans un délai maximum de trente jours.
+
+Les collaborateurs ne sont pas membres de l'Association et ne pourront exercer le droit de vote ni participer aux organes de gouvernance de celle-ci.
 
 ### Article 25. Droits des Collaborateurs.
 

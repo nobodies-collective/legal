@@ -334,6 +334,14 @@ Il Consiglio Direttivo ha le seguenti facoltà:
 
 Il Consiglio Direttivo potrà invitare alle proprie riunioni persone la cui presenza ritenga di interesse, le quali parteciperanno con diritto di parola ma senza diritto di voto. Parimenti, potrà creare organi consultivi o commissioni di consulenza formate da persone associate o esperti esterni per collaborare a fini specifici dell'Associazione.
 
+### Articolo 19 bis. Limitazione di Responsabilità e Indennizzo.
+
+1. I membri del Consiglio Direttivo, così come le persone che agiscano in nome dell'Associazione in qualità di volontari, coordinatori di gruppi di lavoro o rappresentanti autorizzati, non risponderanno personalmente per i danni che possano derivare da azioni compiute in buona fede e nel legittimo esercizio delle loro funzioni, salvo nei casi di dolo, colpa grave o manifesto superamento delle proprie competenze.
+
+2. L'Associazione, nella misura consentita dalle proprie risorse e dalla legislazione vigente, terrà indenni le persone menzionate nel comma precedente dalle pretese, costi giudiziari e spese ragionevoli in cui possano incorrere a seguito di azioni compiute nell'esercizio delle loro funzioni per l'Associazione, purché tali azioni siano state compiute in buona fede e nell'interesse della stessa.
+
+3. Il Consiglio Direttivo potrà stipulare una polizza di assicurazione di responsabilità civile che copra le attività dell'Associazione, incluse le azioni dei suoi membri, dirigenti e volontari.
+
 ---
 
 ## CAPITOLO III. COMMISSIONI O GRUPPI DI LAVORO
@@ -343,6 +351,18 @@ Il Consiglio Direttivo potrà invitare alle proprie riunioni persone la cui pres
 1. L'Associazione supervisionerà la creazione di commissioni o gruppi di lavoro che svolgano attività di supporto di diversa natura alla stessa.
 
 2. Il Consiglio Direttivo avrà funzioni di supervisione al fine di analizzare i diversi gruppi di lavoro, i cui responsabili devono presentargli una volta all'anno una relazione dettagliata delle proprie attività.
+
+### Articolo 20 bis. Regime dei Volontari nelle Attività e negli Eventi.
+
+1. Le persone che partecipino come volontarie all'organizzazione delle attività e degli eventi dell'Associazione opereranno sotto il coordinamento dei gruppi di lavoro competenti e secondo le istruzioni del Consiglio Direttivo.
+
+2. L'Associazione riconosce che i volontari agiscono in modo altruistico e senza alcun rapporto di lavoro. Di conseguenza, e fatto salvo quanto stabilito dall'articolo 19 bis, l'Associazione si adopererà per coprire, mediante un'adeguata assicurazione, i rischi derivanti dall'attività volontaria nei propri eventi.
+
+3. I volontari dovranno essere informati preventivamente dei rischi associati alla loro attività e delle misure di sicurezza applicabili.
+
+---
+
+## CAPITOLO IV. DEGLI ASSOCIATI E COLLABORATORI
 
 ### Articolo 21. Ammissione dei Membri.
 
@@ -399,6 +419,8 @@ Sono doveri di tutti gli associati:
 ### Articolo 24. Collaboratori dell'Associazione.
 
 Senza che tecnicamente possiedano la condizione di associati, si stabilisce la categoria di collaboratori per quelle persone o enti che, desiderando contribuire al mantenimento e sviluppo dell'Associazione e alla promozione dei suoi fini, siano accettati dal Consiglio Direttivo, il quale determinerà la quota minima di partecipazione economica che in nessun caso sarà superiore a un quarto della quota di un associato. La richiesta di collaborazione sarà indirizzata al Consiglio Direttivo insieme ai dati necessari, dovendo essere risolta dallo stesso entro un termine massimo di trenta giorni.
+
+I collaboratori non sono membri dell'Associazione e non potranno esercitare il diritto di voto né partecipare agli organi di governo della stessa.
 
 ### Articolo 25. Diritti dei Collaboratori.
 
