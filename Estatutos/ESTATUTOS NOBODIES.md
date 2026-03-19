@@ -264,6 +264,8 @@ La Junta Directiva tiene las siguientes facultades:
 
 2. Se reunirá en sesión extraordinaria cuando la convoque con este carácter el Presidente, o bien si lo solicita un tercio de los miembros que la componen.
 
+3. Las sesiones de la Junta Directiva podrán celebrarse tanto de manera presencial como por videoconferencia u otros medios telemáticos.
+
 ### Artículo 15. Constitución y Adopción de Acuerdos en la Junta Directiva.
 
 1. La Junta Directiva queda válidamente constituida si ha sido convocada con antelación y existe un quórum de la mitad más uno de sus miembros.
