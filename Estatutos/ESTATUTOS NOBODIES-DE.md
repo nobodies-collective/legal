@@ -138,11 +138,11 @@ Die Mitgliederversammlung ist befugt:
 
 2. Der Vorstand kann die Mitgliederversammlung außerordentlich einberufen, wenn er dies für zweckmäßig hält, und muss dies tun, wenn mindestens die Hälfte der Mitglieder dies beantragt; in diesem Fall muss die Versammlung innerhalb von dreißig Tagen nach dem Antrag stattfinden.
 
-   Diese Versammlung kann sowohl in Präsenz als auch per Fernkommunikation stattfinden. Ebenso ist in jedem Fall die Nutzung elektronischer oder Fernabstimmungsverfahren für die Beschlussfassung zulässig, sofern kein Teilnehmer diesem System ausdrücklich widerspricht und die Identität der Mitglieder sowie die Gültigkeit der abgegebenen Stimme gewährleistet sind.
+   Diese Versammlung kann sowohl in Präsenz als auch per Fernkommunikation stattfinden. Ebenso ist in jedem Fall die Nutzung elektronischer oder Fernabstimmungsverfahren für die Beschlussfassung zulässig, es sei denn, die Mehrheit der anwesenden Teilnehmer widerspricht diesem System ausdrücklich, und sofern die Identität der Mitglieder sowie die Gültigkeit der abgegebenen Stimme gewährleistet sind.
 
 3. Die Versammlung wird vom Vorstand durch eine Einberufung einberufen, die mindestens die Tagesordnung, den Ort (kann auch per Fernkommunikation erfolgen, wobei in diesem Fall die Zugangsinformationen mitzuteilen sind), das Datum und die Uhrzeit der Sitzung enthält.
 
-4. Die Einberufung muss 15 Tage vor dem Sitzungstermin individuell per E-Mail an alle Mitglieder mitgeteilt werden. Bei einer außerordentlichen Einberufung gilt die Regelung gemäß Artikel 10.
+4. Die Einberufung muss 15 Tage vor dem Sitzungstermin individuell per E-Mail oder über andere digitale Kommunikationsmittel an alle Mitglieder mitgeteilt werden.
 
 5. Die Sitzungen der Mitgliederversammlung werden vom Vorsitzenden des Vorstands geleitet; bei dessen Abwesenheit übernimmt der stellvertretende Vorsitzende den Vorsitz; bei Abwesenheit beider das Vorstandsmitglied, das die Versammlung bestimmt.
 
