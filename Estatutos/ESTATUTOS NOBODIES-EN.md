@@ -140,7 +140,7 @@ The General Assembly has the power to:
 
 2. The governing body may convene the General Assembly on an extraordinary basis whenever it deems it appropriate, and must do so when requested by, at least, half of the members; in this case, the Assembly shall take place within thirty days from the request.
 
-   Such Assembly may be held either in person or by telematic means. Likewise, the use of electronic or remote voting methods shall be permitted in all cases for the adoption of resolutions, provided that no participant expressly objects to this system and that the identity of the members and the validity of the votes cast are duly guaranteed.
+   Such Assembly may be held either in person or by videoconference or other telematic means. Likewise, the use of electronic or remote voting methods shall be permitted in all cases for the adoption of resolutions, provided that no participant expressly objects to this system and that the identity of the members and the validity of the votes cast are duly guaranteed.
 
 3. The Assembly shall be convened by the Board of Trustees by means of a notice that shall contain, at least, the agenda, the place (which may be online, in which case the access instructions shall be provided), date and time of the meeting.
 

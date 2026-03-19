@@ -138,7 +138,7 @@ La Asamblea General tiene potestad para:
 
 2. El órgano de gobierno puede convocar la Asamblea General con carácter extraordinario siempre que lo considere conveniente, y debe hacerlo cuando lo soliciten, al menos, la mitad de los asociados; en este caso, la Asamblea tendrá lugar dentro del plazo de treinta días a contar desde la solicitud.
 
-   Dicha Asamblea podrá reunirse tanto de manera presencial como telemática. Asimismo, se permitirá en todo caso el uso de medios de voto electrónico o a distancia para la adopción de acuerdos, siempre que ningún participante manifieste expresamente su oposición a este sistema y se garantice la identidad de los asociados y la validez del voto emitido.
+   Dicha Asamblea podrá reunirse tanto de manera presencial como por videoconferencia u otros medios telemáticos. Asimismo, se permitirá en todo caso el uso de medios de voto electrónico o a distancia para la adopción de acuerdos, siempre que ningún participante manifieste expresamente su oposición a este sistema y se garantice la identidad de los asociados y la validez del voto emitido.
 
 3. La Asamblea será convocada por la Junta Directiva mediante convocatoria que contendrá, como mínimo, el orden del día, lugar (pudiendo ser telemática, facilitando en dicho caso las instrucciones de acceso), fecha y hora de la reunión.
 
