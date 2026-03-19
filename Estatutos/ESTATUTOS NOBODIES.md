@@ -36,7 +36,7 @@
 
       2. Cooperación.
 
-      3. Regalos.
+      3. Regalar.
 
       4. Inmediatez.
 
@@ -58,7 +58,7 @@
 
    d. Promover la colaboración, cooperación. representación y participación de la Asociación en otras asociaciones, organizaciones empresariales, organismos o instituciones de carácter público o privado, de ámbito autonómico, estatal o europeo de objeto análogo.
 
-2. El ámbito de cobertura de la Asociación será el territorio español.
+2. El ámbito principal de cobertura de la Asociación será el territorio español, sin perjuicio de las actividades que pueda desarrollar a nivel internacional en cumplimiento de sus fines.
 
 ### Artículo 3. Actividades de la Asociación.
 
@@ -148,7 +148,7 @@ La Asamblea General tiene potestad para:
 
 6. El Secretario de la Junta Directiva redacta el acta de cada reunión, que deben firmar él mismo y el Presidente de la Asamblea, con un extracto de las deliberaciones, el texto de los acuerdos adoptados, el resultado numérico de las votaciones y la lista de los asistentes.
 
-7. El acta debe enviarse en el mes siguiente a la celebración de la reunión. Una vez revisada y aprobada por los asistentes podrá ser validada telemáticamente su versión definitiva.
+7. El acta debe enviarse en un plazo de 30 días naturales a partir de la celebración de la reunión. Una vez revisada y aprobada por los asistentes podrá ser validada telemáticamente su versión definitiva.
 
 8. Al comienzo de cada reunión de la Asamblea General, el Secretario dará lectura al acta de la sesión anterior. Será asimismo responsabilidad del Secretario remitir, con una antelación mínima de quince días, el acta correspondiente y cualquier otra documentación a los representantes de la Asamblea General.
 

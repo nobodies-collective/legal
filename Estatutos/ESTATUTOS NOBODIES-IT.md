@@ -38,7 +38,7 @@
 
       2. Cooperazione.
 
-      3. Doni.
+      3. Donare.
 
       4. Immediatezza.
 
@@ -60,7 +60,7 @@
 
    d. Promuovere la collaborazione, cooperazione, rappresentanza e partecipazione dell'Associazione in altre associazioni, organizzazioni imprenditoriali, organismi o istituzioni di carattere pubblico o privato, di ambito autonomico, statale o europeo con oggetto analogo.
 
-2. L'ambito di copertura dell'Associazione sarà il territorio spagnolo.
+2. L'ambito principale di copertura dell'Associazione sarà il territorio spagnolo, fatte salve le attività che potrà svolgere a livello internazionale nell'adempimento dei propri fini.
 
 ### Articolo 3. Attività dell'Associazione.
 
@@ -150,7 +150,7 @@ L'Assemblea Generale ha il potere di:
 
 6. Il Segretario del Consiglio Direttivo redige il verbale di ogni riunione, che devono firmare lui stesso e il Presidente dell'Assemblea, con un estratto delle deliberazioni, il testo delle delibere adottate, il risultato numerico delle votazioni e l'elenco dei presenti.
 
-7. Il verbale deve essere inviato nel mese successivo allo svolgimento della riunione. Una volta revisionato e approvato dai presenti, potrà essere convalidata telematicamente la sua versione definitiva.
+7. Il verbale deve essere inviato entro 30 giorni naturali dallo svolgimento della riunione. Una volta revisionato e approvato dai presenti, potrà essere convalidata telematicamente la sua versione definitiva.
 
 8. All'inizio di ogni riunione dell'Assemblea Generale, il Segretario darà lettura del verbale della sessione precedente. Sarà altresì responsabilità del Segretario trasmettere, con un anticipo minimo di quindici giorni, il verbale corrispondente e qualsiasi altra documentazione ai rappresentanti dell'Assemblea Generale.
 

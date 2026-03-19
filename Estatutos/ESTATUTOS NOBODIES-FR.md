@@ -38,7 +38,7 @@
 
       2. Coopération.
 
-      3. Don.
+      3. Offrir.
 
       4. Immédiateté.
 
@@ -60,7 +60,7 @@
 
    d. Promouvoir la collaboration, la coopération, la représentation et la participation de l'Association dans d'autres associations, organisations professionnelles, organismes ou institutions de caractère public ou privé, de portée autonomique, étatique ou européenne ayant un objet analogue.
 
-2. Le champ de couverture de l'Association sera le territoire espagnol.
+2. Le champ principal de couverture de l'Association sera le territoire espagnol, sans préjudice des activités qu'elle pourra développer au niveau international dans l'accomplissement de ses objectifs.
 
 ### Article 3. Activités de l'Association.
 
@@ -150,7 +150,7 @@ L'Assemblée Générale a le pouvoir de :
 
 6. Le Secrétaire du Conseil d'Administration rédige le procès-verbal de chaque réunion, qui doit être signé par lui-même et par le Président de l'Assemblée, comportant un résumé des délibérations, le texte des résolutions adoptées, le résultat numérique des votes et la liste des participants.
 
-7. Le procès-verbal doit être envoyé dans le mois suivant la tenue de la réunion. Une fois revu et approuvé par les participants, sa version définitive pourra être validée par voie électronique.
+7. Le procès-verbal doit être envoyé dans un délai de 30 jours calendaires à compter de la tenue de la réunion. Une fois revu et approuvé par les participants, sa version définitive pourra être validée par voie électronique.
 
 8. Au début de chaque réunion de l'Assemblée Générale, le Secrétaire donnera lecture du procès-verbal de la session précédente. Il incombera également au Secrétaire de transmettre, avec un préavis minimum de quinze jours, le procès-verbal correspondant et toute autre documentation aux représentants de l'Assemblée Générale.
 
