@@ -8,173 +8,185 @@
 
 ---
 
-## What is this document and why should you care?
+## Why should I read this?
 
-This is how Nobodies Collective Association ("NCA", "we", "us") handles your personal data. We're a Spanish *asociación* that organises participatory events — most notably Elsewhere. We collect some data about you because we have to (law, contracts, keeping you safe at events). We also collect some because you asked us to (marketing, community updates). This document tells you exactly what, why, how long, and what you can do about it.
+Because we know things about you. Your name, your email, maybe your ID number if you're an artist. And you deserve to know exactly what we do with all of it.
 
-We're registered in Madrid (Glorieta de Bilbao 1, 3.° Derecha, 28004) and we follow the EU General Data Protection Regulation (GDPR), Spain's Ley Orgánica 3/2018 (LOPDGDD), and the Ley 34/2002 de Servicios de la Sociedad de la Información (LSSI) for electronic communications.
+Nobodies Collective Association ("NCA") is a Spanish *asociación* that organises participatory events — most notably Elsewhere. We're registered in Madrid (Glorieta de Bilbao 1, 3.° Derecha, 28004). We follow the EU General Data Protection Regulation (GDPR), Spain's Ley Orgánica 3/2018 (LOPDGDD), and the Ley 34/2002 (LSSI) for electronic communications.
 
-If anything in here doesn't make sense, email **privacy@nobodies.team** and a human will answer.
+This document tells you what data we collect, why, how long we keep it, what we do with it, and what you can do about it. All in plain language, because nobody should need a law degree to understand a privacy policy.
 
----
-
-## Who are "you" in this policy?
-
-You might be one or more of these:
-
-- **A ticket holder** — you bought a ticket to one of our events
-- **An artist** — you're creating or exhibiting art at an event
-- **A platform user** — you have an account on our community platform ("humans")
-- **An association member** — you're an asociado, colaborador, or board member of NCA
-- **A website visitor** — you landed on our site
-- **Someone who emailed us** — you got in touch
-
-Different roles mean different data, different purposes, and different rules. We'll be specific below.
+If anything still doesn't make sense, email **privacy@nobodies.team** and a human will answer.
 
 ---
 
-## What data do we collect and why?
+## Does this apply to me?
 
-### If you buy a ticket
+If you've interacted with NCA in any of these ways, yes:
 
-| Data | Why | Lawful basis | How long we keep it |
-|------|-----|-------------|-------------------|
-| Name, email, phone | To issue your ticket and send you event logistics (schedule, safety, access) | Contract performance (Art. 6(1)(b) GDPR) | 5 years after the event (Spanish tax/civil law) |
-| Payment details | To process your purchase | Contract performance | We don't store card numbers — our payment processor (Stripe) handles this |
-| Dietary/accessibility needs | To accommodate you at the event | Consent (Art. 6(1)(a)) or legitimate interest (Art. 6(1)(f)) | Deleted 30 days after the event |
+- You bought a ticket to one of our events
+- You're creating or exhibiting art at an event
+- You have an account on the community platform ("humans")
+- You're an association member — asociado, colaborador, or board member
+- You visited our website
+- You emailed us
 
-**Operational communications** (logistics, schedule changes, safety alerts, access info) are sent under the contract you entered when you bought the ticket. These are not marketing. You can't opt out of them — we need to tell you where the gate is and what time the thunderstorm warning kicks in. You'll stop receiving them after the event ends.
-
-### If you're an artist
-
-| Data | Why | Lawful basis | How long |
-|------|-----|-------------|----------|
-| Name, ID document, nationality, address | Waiver of liability agreement | Contract performance (Art. 6(1)(b)) | Duration required by Spanish tax and civil law |
-| Art piece description, safety documentation | Health & safety compliance | Legal obligation (Art. 6(1)(c)) + contract | 5 years after the event |
-| Insurance policy details (high-risk installations) | Verifying coverage per waiver clause 6 | Contract performance | Duration of the event + 1 year |
-
-### If you have a humans platform account
-
-| Data | Why | Lawful basis | How long |
-|------|-----|-------------|----------|
-| Name, email, profile info you provide | To operate your account and the community platform | Contract performance (Art. 6(1)(b)) — platform terms of use | As long as your account is active, plus 30 days after deletion request |
-| Activity data (logins, interactions) | Platform operation and security | Legitimate interest (Art. 6(1)(f)) | 12 months rolling |
-
-### If you're an association member
-
-| Data | Why | Lawful basis | How long |
-|------|-----|-------------|----------|
-| Name, ID, address, membership category | Association register (Libro de Socios) required by Spanish law | Legal obligation (Art. 6(1)(c)) — Ley Orgánica 1/2002 de Asociaciones | Duration of membership + period required by law |
-| Email, phone | Statutory communications (AGM notices, votes, governance) | Contract performance (membership agreement) + legal obligation | Duration of membership |
-
-**Governance communications** (board meeting notices, AGM convocations, voting, statutory updates) are not marketing. They're required by law and your membership agreement. They're not optional — Spanish association law requires us to notify members, and we require your contact details to do it.
+You might fit more than one of these. That's fine — different roles mean we handle your data for different reasons. We'll be specific.
 
 ---
 
-## What about marketing?
+## What do you know about me?
 
-Here's where it gets specific. We send four types of communications, and they have different rules:
+That depends on how you're involved.
 
-### Category 1 — General NCA marketing
-*News, future events, community stories, partnership announcements.*
+### I bought a ticket
 
-**Lawful basis:** Your consent (Art. 6(1)(a) GDPR; Art. 21 LSSI).
+Your name, email, and phone number — so we can issue your ticket and tell you where the gate is, when the schedule changes, and when to take shelter from a thunderstorm. We keep this for 5 years after the event because Spanish tax and civil law requires it.
 
-**How you opt in:** You tick the box on a waiver, ticket purchase form, humans account settings, or any other consent form we provide. We will never pre-tick it for you.
+Your payment details go through Stripe. We never see or store your card number.
 
-**How you opt out:** Every message includes an unsubscribe link. You can also email privacy@nobodies.team or update your humans account settings. Withdrawal takes effect within 48 hours.
+If you told us about dietary needs or accessibility requirements, we use that to accommodate you at the event and delete it 30 days after.
 
-### Category 2 — Elsewhere event-specific
-*Event updates, lineup announcements, travel tips, content specific to an upcoming Elsewhere edition.*
+**About those logistics emails:** When you buy a ticket, you're entering a contract with us. Part of that contract is us telling you essential stuff — schedule, safety, access, weather alerts. Those aren't marketing. You can't opt out of them because we genuinely need to send them. They stop automatically after the event ends.
 
-**Lawful basis:**
-- If you already hold a ticket to that edition: **soft opt-in** under Art. 21(2) LSSI. You're an existing customer and these are communications about the product you purchased. You can opt out at any time.
-- If you don't hold a ticket: **consent** (Art. 6(1)(a) GDPR). Same opt-in/opt-out as Category 1.
+### I'm an artist
 
-**How you opt out:** Unsubscribe link in every message, or email privacy@nobodies.team, or update humans account settings.
+Your name, ID document, nationality, and address — because the waiver of liability agreement requires it. We keep this for the period required by Spanish tax and civil law.
 
-### Category 3 — Ticket operational
-*Event logistics, schedule, safety information, access instructions, weather alerts, emergency notifications.*
+If your art piece involves fire, gas, electricity, or climbable structures, we also need your insurance policy details to verify coverage. We keep those for the duration of the event plus one year.
 
-**Lawful basis:** Contract performance (Art. 6(1)(b) GDPR). You bought a ticket; we need to tell you how to get in, where things are, and when to take shelter.
+Your art piece description and safety documentation go on file for health and safety compliance — 5 years after the event.
 
-**Can you opt out?** No. These are necessary for the performance of your ticket agreement. They stop automatically after the event ends. We will never include promotional content in these messages.
+### I have a humans account
 
-### Category 4 — Association governance
-*AGM notices, voting notifications, board communications, statutory updates, membership renewals.*
+Your name, email, and whatever profile info you chose to share — so the platform works. We keep it as long as your account is active, plus 30 days after you ask us to delete it.
 
-**Lawful basis:** Contract performance (membership agreement) + legal obligation (Ley Orgánica 1/2002 de Asociaciones; NCA Estatutos).
+We also log basic activity data (logins, interactions) for platform security. That rolls off after 12 months.
 
-**Can you opt out?** No. Spanish association law requires us to communicate with members about governance matters. These stop if you leave the association. We will never include promotional content in these messages.
+### I'm an association member
+
+Your name, ID, address, and membership category go in the *Libro de Socios* — the association register that Spanish law (Ley Orgánica 1/2002 de Asociaciones) requires us to maintain. We keep this for the duration of your membership plus whatever period the law demands.
+
+Your email and phone are for governance communications: AGM notices, votes, board updates, statutory stuff. These aren't marketing — they're required by law and by your membership agreement. You can't opt out, but they stop if you leave the association. We will never sneak promotional content into a governance message.
 
 ---
 
-## Do we share your data with anyone?
+## Will you send me emails I didn't ask for?
 
-Only when necessary:
+Only if you asked for them. Here's how it works — we send four types of communications, and the rules are different for each:
 
-- **Payment processors** (Stripe) — to process ticket and membership payments
-- **Platform providers** (humans) — to operate the community platform. Data processing agreement in place.
-- **Insurance providers** — only artist insurance verification data, only when required by the waiver
-- **Spanish tax authorities** (AEAT) — when required by tax law for invoiced amounts
-- **Courts or regulators** — only when legally compelled
+### 1. General NCA news and updates
 
-We don't sell your data. We don't share it with advertisers. We don't transfer it outside the EEA unless a processor uses infrastructure in a country with an EU adequacy decision, or under Standard Contractual Clauses.
+Community stories, future events, partnership announcements — the big picture stuff.
+
+You only get these if you ticked the box. We will never pre-tick it for you. Every message has an unsubscribe link, or you can email privacy@nobodies.team, or flip the toggle in your humans account settings. Gone within 48 hours.
+
+The legal basis is your consent (GDPR Art. 6(1)(a); LSSI Art. 21).
+
+### 2. Elsewhere event-specific content
+
+Updates about a specific edition of Elsewhere — lineup, travel tips, what to bring, community content.
+
+If you already hold a ticket to that edition, you're an existing customer. Spanish law (LSSI Art. 21(2)) lets us send you info about the thing you bought — that's called a "soft opt-in." You can opt out anytime using the unsubscribe link, and we'll stop.
+
+If you don't have a ticket, you only get these if you opted in. Same rules as Category 1.
+
+### 3. Ticket operational messages
+
+Logistics. Schedule. Safety alerts. Access instructions. Weather warnings. Emergency notifications.
+
+These come with your ticket — they're part of the contract (GDPR Art. 6(1)(b)). You can't opt out because we literally need to tell you things like "the road is flooded, use the north entrance." They stop after the event ends. We will never put promotional content in these.
+
+### 4. Association governance
+
+AGM convocations, voting notices, board communications, statutory updates, membership renewals.
+
+Required by Spanish association law and your membership agreement. Not optional. Not marketing. They stop if you leave the association.
 
 ---
 
-## How do we keep your data safe?
+## Who else sees my data?
 
-- Access controls — only authorised team members access personal data
-- Encrypted storage and transmission (TLS in transit, encryption at rest)
-- We review access quarterly and revoke it when someone's role changes
-- Incident response — if we discover a breach affecting your data, we'll notify you and the AEPD within 72 hours as required by GDPR Art. 33
+Short list, and only when necessary:
 
-We're a small association, not a tech company. We use appropriate measures for our size and risk profile. We don't pretend to be Fort Knox, but we take it seriously.
+- **Stripe** processes your payments. They have their own privacy policy — we don't see your card number.
+- **The humans platform** operates your community account. Data processing agreement in place.
+- **Insurance providers** get artist insurance details, only when the waiver requires verification.
+- **Spanish tax authorities** (AEAT) get what tax law tells us to give them for invoiced amounts.
+- **Courts or regulators** — only when we're legally compelled.
+
+That's it. We don't sell your data. We don't share it with advertisers. We don't let anyone use it for profiling. If a processor operates outside the EEA, they're either in a country with an EU adequacy decision or bound by Standard Contractual Clauses.
 
 ---
 
-## What are your rights?
+## Is my data safe?
+
+We take reasonable precautions for an organisation of our size:
+
+- Only authorised team members can access personal data
+- Everything is encrypted in transit (TLS) and at rest
+- We review who has access every quarter and revoke it when roles change
+- If we discover a breach affecting your data, we'll notify you and the Agencia Española de Protección de Datos (AEPD) within 72 hours, as GDPR Art. 33 requires
+
+We're a volunteer-run association, not a tech company. We won't pretend to be Fort Knox. But we take your data seriously and we act quickly when something goes wrong.
+
+---
+
+## What can I do about my data?
 
 Under GDPR, you have the right to:
 
-| Right | What it means |
-|-------|--------------|
-| **Access** | Ask us what data we hold about you and get a copy |
-| **Rectification** | Correct anything that's wrong |
-| **Erasure** | Ask us to delete your data (subject to legal retention requirements) |
-| **Restriction** | Ask us to stop processing while we resolve a dispute |
-| **Portability** | Get your data in a structured, machine-readable format |
-| **Object** | Object to processing based on legitimate interest |
-| **Withdraw consent** | Take back any consent you've given, at any time, without affecting the lawfulness of prior processing |
+- **See it** — ask us what we hold about you and get a copy
+- **Fix it** — correct anything that's wrong
+- **Delete it** — ask us to erase your data (subject to legal retention requirements — we can't delete what the tax office says we must keep)
+- **Pause it** — ask us to stop processing while we resolve a dispute
+- **Move it** — get your data in a structured, machine-readable format so you can take it elsewhere
+- **Object** — push back on processing we do based on legitimate interest
+- **Change your mind** — withdraw any consent you've given, at any time, no questions asked. This doesn't affect anything we did before you withdrew.
 
-**How to exercise them:** Email **privacy@nobodies.team** with your name and what you're asking for. We'll respond within 30 days (GDPR Art. 12(3)).
+**How:** Email **privacy@nobodies.team** with your name and what you're asking for. We'll respond within 30 days.
 
-**Not happy with our response?** You can lodge a complaint with the Agencia Española de Protección de Datos (AEPD) at [www.aepd.es](https://www.aepd.es).
+**Not satisfied?** You can lodge a complaint with the AEPD at [www.aepd.es](https://www.aepd.es). They're the Spanish data protection authority, and they take complaints seriously.
 
 ---
 
-## Do we use cookies?
+## Do you track me on the website?
 
-If you visit our website or use the humans platform, yes — functional cookies to keep you logged in and analytics cookies to understand traffic. We'll ask before setting non-essential cookies. Details in our cookie banner.
-
----
-
-## Will this policy change?
-
-Probably, as the association grows and our activities evolve. When it does, we'll post the updated version on our website and notify you by email if the changes are material. The date at the top tells you when this version was last updated.
+If you visit our website or use the humans platform, we use functional cookies to keep you logged in and analytics cookies to understand how people use the site. We'll ask before setting anything that isn't strictly necessary. Details in our cookie banner.
 
 ---
 
-## Who's responsible?
+## Will this change?
+
+Probably. As the association grows and our activities evolve, we'll update this policy. If the changes are material, we'll email you. The date at the top tells you when this version was last updated.
+
+---
+
+## Who do I contact?
 
 **Data controller:**
 Nobodies Collective Association
 CIF: G26726299
-Glorieta de Bilbao 1, 3.° Derecha
-28004 Madrid, Spain
+Glorieta de Bilbao 1, 3.° Derecha, 28004 Madrid, Spain
 
-**Data protection contact:**
-privacy@nobodies.team
+**Data protection contact:** privacy@nobodies.team
 
-NCA is not required to appoint a Data Protection Officer (DPO) under GDPR Art. 37, as we do not carry out large-scale systematic monitoring or process special category data at scale. If this changes, we'll appoint one and update this policy.
+NCA is not required to appoint a Data Protection Officer under GDPR Art. 37, as we don't carry out large-scale systematic monitoring or process special category data at scale. If that changes, we'll appoint one and update this policy.
+
+---
+
+## Important Note
+
+This Privacy Policy is part of the **Elsewhere Participation Framework**, which includes:
+
+1. Ticket Terms & Conditions
+2. Refund Policy
+3. Participant Agreement
+4. Public Health & Safety Policy
+5. Code of Conduct
+6. Ticketing Privacy Notice
+7. Media & Image Policy
+8. Artist Installation & Grant Agreement
+9. **This document — Privacy Policy**
+
+All documents are available on the event website and on request from the Association.
