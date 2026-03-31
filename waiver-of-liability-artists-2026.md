@@ -40,19 +40,13 @@ The original said NCA can't be held liable for *anything* related to the art pie
 
 ### Should insurance be mandatory for fire-breathing dragons and climbable towers?
 
-Right now the clause says the artist "reserves the right" to get insurance. Which is a polite way of saying it's optional. For a painting, fine. For a propane-fueled flame sculpture or a 10-metre climbing structure? You probably want proof of liability insurance before that thing goes up.
+Yes. The event's own liability policy covers NCA as organiser — if NCA's crew damages a sculpture, that's covered. But it doesn't cover the *artist's* liability for *their own piece*. If a flame sculpture ignites a neighbouring installation, NCA's insurer would subrogate against the artist. High-risk artists need their own coverage.
 
-Burning Man requires it. Nowhere has moved towards it for large installations. It's standard practice.
+**What I did:** Added a requirement for proof of liability insurance when an art piece involves fire/gas, electricity, or is a climbable structure above 2 metres. Low-risk artists (painters, sculptors, literary) keep the optional language. Standard at Burning Man, Nowhere, and most participatory events.
 
-> **Your call:** Keep it optional across the board, or add a requirement for high-risk installations? If yes, I'll add a sentence.
+### We added a data protection clause and a privacy policy
 
-### There's no GDPR clause and we're collecting personal data
-
-The waiver asks for full name, ID document type and number, nationality, and home address. That's personal data under GDPR. NCA should either include a brief data processing notice in this document or reference NCA's privacy policy.
-
-It's not a deal-breaker, but a Spanish data protection authority would raise an eyebrow if an association is collecting ID numbers without telling people what they're doing with them.
-
-> **Your call:** Want me to add a data protection clause? Two paragraphs, nothing heavy.
+The waiver collects full name, ID number, nationality, and home address — that's personal data under GDPR. The waiver now includes a data protection notice referencing NCA's privacy policy (drafted separately as `privacy-policy.md`). The privacy policy also covers the humans platform, ticket sales, and the marketing consent categories.
 
 ### Which language version wins if there's a conflict?
 
@@ -240,12 +234,37 @@ Esta lista no es cerrada; su inclusión de forma expresa se debe a que son las d
 <tr>
 <td>
 
-**6)** The Artist releases the Association from all liability for any damages which may be caused in connection with the art piece, whether during its construction, removal, or while it is installed at the Event site, **except where such damage results directly from the gross negligence or wilful misconduct of the Association**. The Artist reserves the right to contract a liability insurance policy to cover any risks arising from the art piece.
+**6)** The Artist releases the Association from all liability for any damages which may be caused in connection with the art piece, whether during its construction, removal, or while it is installed at the Event site, **except where such damage results directly from the gross negligence or wilful misconduct of the Association**.
+
+Where the art piece involves any of the following, the Artist **must** provide proof of a valid third-party liability insurance policy prior to commencing installation: (a) fire, gas or flame effects; (b) electrical installations; or (c) structures designed to be accessed or climbed by participants at a height exceeding two (2) metres. For all other art pieces, the Artist reserves the right to contract a liability insurance policy at their discretion.
 
 </td>
 <td>
 
-**SEXTA.** El/la Artista exime de toda responsabilidad a la Asociación por los daños que pudieran producirse por la creación artística tanto en su montaje y retirada como durante el tiempo que permanezca expuesta en el recinto del Evento, **salvo en los casos en que dichos daños resulten directamente de la negligencia grave o dolo de la Asociación**. El/la Artista se reserva la necesidad de contratar un seguro de responsabilidad civil para cubrir sus necesidades llegado el caso.
+**SEXTA.** El/la Artista exime de toda responsabilidad a la Asociación por los daños que pudieran producirse por la creación artística tanto en su montaje y retirada como durante el tiempo que permanezca expuesta en el recinto del Evento, **salvo en los casos en que dichos daños resulten directamente de la negligencia grave o dolo de la Asociación**.
+
+Cuando la creación artística implique cualquiera de los siguientes elementos, el/la Artista **deberá** aportar prueba de un seguro de responsabilidad civil frente a terceros vigente antes de iniciar la instalación: (a) efectos de fuego, gas o llama; (b) instalaciones eléctricas; o (c) estructuras diseñadas para ser accedidas o escaladas por los participantes a una altura superior a dos (2) metros. Para el resto de creaciones artísticas, el/la Artista se reserva la facultad de contratar un seguro de responsabilidad civil a su discreción.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center"><br><strong>DATA PROTECTION / PROTECCIÓN DE DATOS</strong><br><br></td>
+</tr>
+
+<tr>
+<td>
+
+**7)** The personal data provided by the Artist under this agreement (name, identification document, nationality and address) will be processed by the Association solely for the purposes of managing the Artist's participation in the Event, complying with legal obligations, and — where the Artist has given separate consent — sending communications about the Association's activities. The Artist's data will be retained for the duration required by applicable tax and civil law, after which it will be deleted.
+
+The Artist has the right to access, rectify, erase, restrict, port and object to the processing of their personal data by contacting the Association at **privacy@nobodies.team**. Full details of the Association's data processing practices are set out in the **NCA Privacy Policy**, available at the Association's website and on request.
+
+</td>
+<td>
+
+**SÉPTIMA.** Los datos personales facilitados por el/la Artista en virtud de este acuerdo (nombre, documento de identidad, nacionalidad y domicilio) serán tratados por la Asociación exclusivamente para gestionar la participación del/la Artista en el Evento, cumplir con las obligaciones legales aplicables y, en caso de contar con el consentimiento expreso del/la Artista, enviar comunicaciones sobre las actividades de la Asociación. Los datos se conservarán durante el plazo exigido por la legislación fiscal y civil aplicable, tras lo cual serán eliminados.
+
+El/la Artista tiene derecho a acceder, rectificar, suprimir, limitar, portar y oponerse al tratamiento de sus datos personales contactando a la Asociación en **privacy@nobodies.team**. Los detalles completos de las prácticas de tratamiento de datos de la Asociación se encuentran en la **Política de Privacidad de NCA**, disponible en la página web de la Asociación y a solicitud.
 
 </td>
 </tr>
@@ -257,14 +276,14 @@ Esta lista no es cerrada; su inclusión de forma expresa se debe a que son las d
 <tr>
 <td>
 
-**7)** In the event of any conflict, dispute or situation deriving from the interpretation or implementation of this agreement or any of its clauses, both parties agree to first attempt resolution through good faith mediation within **thirty (30) calendar days** from the date on which either party notifies the other of the dispute in writing.
+**8)** In the event of any conflict, dispute or situation deriving from the interpretation or implementation of this agreement or any of its clauses, both parties agree to first attempt resolution through good faith mediation within **thirty (30) calendar days** from the date on which either party notifies the other of the dispute in writing.
 
 If mediation fails to resolve the dispute within the period above, both parties expressly renounce their own jurisdictions and agree to submit their case to the **Courts of Huesca**.
 
 </td>
 <td>
 
-**SÉPTIMA.** Para la resolución de cualquier controversia que se suscite entre las partes en relación con la interpretación o aplicación del presente acuerdo o alguna de sus cláusulas, ambas partes se comprometen a intentar resolver la disputa de buena fe mediante mediación en un plazo de **treinta (30) días naturales** a contar desde la fecha en que cualquiera de las partes notifique a la otra la existencia de la controversia por escrito.
+**OCTAVA.** Para la resolución de cualquier controversia que se suscite entre las partes en relación con la interpretación o aplicación del presente acuerdo o alguna de sus cláusulas, ambas partes se comprometen a intentar resolver la disputa de buena fe mediante mediación en un plazo de **treinta (30) días naturales** a contar desde la fecha en que cualquiera de las partes notifique a la otra la existencia de la controversia por escrito.
 
 En caso de que la mediación no resuelva la controversia en el plazo indicado, ambas partes renuncian a sus fueros personales, estableciendo como competentes los **Juzgados y Tribunales de Huesca**.
 
@@ -274,12 +293,39 @@ En caso de que la mediación no resuelva la controversia en el plazo indicado, a
 <tr>
 <td>
 
-**8)** This agreement is a translation in the English language from the Spanish original. In the event of any discrepancy between the two texts, the Spanish version shall take precedence.
+**9)** This agreement is a translation in the English language from the Spanish original. In the event of any discrepancy between the two texts, the Spanish version shall take precedence.
 
 </td>
 <td>
 
-**OCTAVA.** El presente acuerdo ha sido traducido al inglés a partir del original en español. En caso de discrepancia entre ambos textos, prevalecerá la versión en español.
+**NOVENA.** El presente acuerdo ha sido traducido al inglés a partir del original en español. En caso de discrepancia entre ambos textos, prevalecerá la versión en español.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center"><br><strong>COMMUNICATIONS CONSENT / CONSENTIMIENTO DE COMUNICACIONES</strong><br><br></td>
+</tr>
+
+<tr>
+<td>
+
+The Artist may optionally consent to receive communications from the Association. Please tick the boxes below as applicable:
+
+- [ ] **General NCA communications** — I consent to receive news, updates, and information about the Association's activities and future events. *(You can withdraw this consent at any time.)*
+- [ ] **Elsewhere 2026 communications** — I consent to receive promotional and informational content specific to the Elsewhere 2026 event. *(You can withdraw this consent at any time.)*
+
+*Note: If you hold a ticket for Elsewhere 2026, you will receive essential operational communications (logistics, schedule, safety) regardless of the above choices, as these are necessary for the performance of your ticket agreement. Association members (asociados, colaboradores and board members) will also receive statutory and governance communications as required by law and the Association's bylaws.*
+
+</td>
+<td>
+
+El/la Artista puede consentir opcionalmente a recibir comunicaciones de la Asociación. Marque las casillas que correspondan:
+
+- [ ] **Comunicaciones generales de NCA** — Consiento recibir noticias, actualizaciones e información sobre las actividades de la Asociación y futuros eventos. *(Puede retirar este consentimiento en cualquier momento.)*
+- [ ] **Comunicaciones de Elsewhere 2026** — Consiento recibir contenido promocional e informativo específico del evento Elsewhere 2026. *(Puede retirar este consentimiento en cualquier momento.)*
+
+*Nota: Si dispone de una entrada para Elsewhere 2026, recibirá comunicaciones operativas esenciales (logística, horarios, seguridad) con independencia de las opciones anteriores, ya que son necesarias para la ejecución de su contrato de entrada. Los miembros de la Asociación (asociados, colaboradores y miembros de la junta) recibirán igualmente las comunicaciones estatutarias y de gobernanza exigidas por la ley y los estatutos de la Asociación.*
 
 </td>
 </tr>
