@@ -577,4 +577,4 @@ In allen Angelegenheiten, die in dieser Satzung nicht geregelt sind, gilt das Or
 
 ---
 
-*Dieses Dokument wurde von Claude Code (Opus 4.6) maschinell aus der maßgeblichen spanischen Fassung übersetzt und zuletzt am 12. Februar 2026 überarbeitet.*
+*Dieses Dokument wurde von Claude Code (Opus 4.6) maschinell aus der maßgeblichen spanischen Fassung übersetzt und zuletzt am 4. April 2026 überarbeitet.*

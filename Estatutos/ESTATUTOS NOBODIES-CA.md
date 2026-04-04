@@ -574,3 +574,7 @@ En tot allò que no estigui previst en els presents Estatuts s'aplicarà la vige
 - Victor E.M.P.
 - Peter D.
 - Michelle T.
+
+---
+
+*Aquest document ha estat traduït automàticament a partir de la versió espanyola oficial per Claude Code (Opus 4.6) i revisat per darrera vegada el 4 d'abril de 2026.*

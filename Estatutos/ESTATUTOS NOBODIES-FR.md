@@ -577,4 +577,4 @@ Pour tout ce qui n'est pas prévu dans les présents Statuts, s'appliquera la Lo
 
 ---
 
-*Ce document a été traduit automatiquement à partir de la version espagnole faisant foi par Claude Code (Opus 4.6) et révisé pour la dernière fois le 12 février 2026.*
+*Ce document a été traduit automatiquement à partir de la version espagnole faisant foi par Claude Code (Opus 4.6) et révisé pour la dernière fois le 4 avril 2026.*

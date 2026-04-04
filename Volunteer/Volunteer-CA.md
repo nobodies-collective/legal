@@ -138,6 +138,6 @@ Si alguna disposició del present Acord fos declarada invàlida o inaplicable, l
 
 ---
 
-*Última actualización: 2026-02-10*
+*Última actualització: 2026-04-04*
 
 © Asociación Nobodies Collective — Llicenciat sota [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

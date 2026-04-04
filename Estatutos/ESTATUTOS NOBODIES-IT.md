@@ -577,4 +577,4 @@ Per tutto quanto non previsto nel presente Statuto si applicherà la vigente Leg
 
 ---
 
-*Questo documento è stato tradotto automaticamente dalla versione spagnola autorevole da Claude Code (Opus 4.6) e revisionato l'ultima volta il 12 febbraio 2026.*
+*Questo documento è stato tradotto automaticamente dalla versione spagnola autorevole da Claude Code (Opus 4.6) e revisionato l'ultima volta il 4 aprile 2026.*
