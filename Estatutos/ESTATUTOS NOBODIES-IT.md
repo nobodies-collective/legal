@@ -176,7 +176,7 @@ L'Assemblea Generale ha il potere di:
 
 6. La rappresentanza presso il Ministero dell'Interno (conformemente a quanto previsto dalla Legge Organica 1/2002, del 22 marzo, che regola il Diritto di Associazione) ai fini relativi alla comunicazione di ogni modifica statutaria di Nobodies, dei componenti del Consiglio Direttivo, o dell'eventuale scioglimento dell'Associazione, spetta al Segretario del Consiglio Direttivo o, in sua mancanza, a qualsiasi altro membro del Consiglio che questo designi espressamente a tal fine, e unicamente su mandato specifico conferito dall'Assemblea Generale.
 
-7. Gli associati potranno esprimere il proprio voto sui punti dell'ordine del giorno pubblicati prima della celebrazione dell'Assemblea Generale, purché siano garantite la loro identità e la validità del voto. Tali voti anticipati saranno computati insieme a quelli espressi durante la sessione.
+7. Gli associati potranno esprimere il proprio voto sui punti dell'ordine del giorno prima della celebrazione dell'Assemblea Generale, purché siano garantite la loro identità e la validità del voto. Tali voti anticipati saranno computati insieme a quelli espressi durante la sessione.
 
 ---
 

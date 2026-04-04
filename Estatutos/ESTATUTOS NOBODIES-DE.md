@@ -176,7 +176,7 @@ Die Mitgliederversammlung ist befugt:
 
 6. Die Vertretung gegenüber dem Innenministerium (gemäß dem Organgesetz 1/2002 vom 22. März über das Vereinigungsrecht) hinsichtlich der Mitteilung jeglicher Satzungsänderungen von Nobodies, der Zusammensetzung des Vorstands oder der etwaigen Auflösung des Vereins obliegt dem Sekretär des Vorstands oder, ersatzweise, einem anderen vom Vorstand ausdrücklich zu diesem Zweck benannten Vorstandsmitglied, und ausschließlich auf der Grundlage eines spezifischen Mandats der Mitgliederversammlung.
 
-7. Die Mitglieder können ihre Stimme zu den veröffentlichten Tagesordnungspunkten vor der Mitgliederversammlung abgeben, sofern ihre Identität und die Gültigkeit der Stimme gewährleistet sind. Diese im Voraus abgegebenen Stimmen werden zusammen mit den während der Sitzung abgegebenen Stimmen gezählt.
+7. Die Mitglieder können ihre Stimme zu den Tagesordnungspunkten vor der Mitgliederversammlung abgeben, sofern ihre Identität und die Gültigkeit der Stimme gewährleistet sind. Diese im Voraus abgegebenen Stimmen werden zusammen mit den während der Sitzung abgegebenen Stimmen gezählt.
 
 ---
 
