@@ -138,7 +138,7 @@ L'Assemblée Générale a le pouvoir de :
 
 2. L'organe de gouvernance peut convoquer l'Assemblée Générale à titre extraordinaire chaque fois qu'il le juge opportun, et doit le faire lorsque la moitié au moins des associés le demandent ; dans ce cas, l'Assemblée aura lieu dans un délai de trente jours à compter de la demande.
 
-   Ladite Assemblée pourra se réunir aussi bien en présentiel qu'en distanciel. De même, l'utilisation de moyens de vote électronique ou à distance pour l'adoption de résolutions sera en tout cas autorisée, sauf si la majorité des participants présents exprime expressément son opposition à ce système, et à condition que l'identité des associés et la validité du vote émis soient dûment garanties.
+   Ladite Assemblée pourra se réunir aussi bien en présentiel que par vidéoconférence ou d'autres moyens de communication à distance. De même, l'utilisation de moyens de vote électronique ou à distance pour l'adoption de résolutions sera en tout cas autorisée, sauf si la majorité des participants présents exprime expressément son opposition à ce système, et à condition que l'identité des associés et la validité du vote émis soient dûment garanties.
 
 3. L'Assemblée sera convoquée par le Conseil d'Administration au moyen d'une convocation qui contiendra, au minimum, l'ordre du jour, le lieu (pouvant être en distanciel, auquel cas les instructions d'accès seront fournies), la date et l'heure de la réunion.
 
@@ -160,6 +160,8 @@ L'Assemblée Générale a le pouvoir de :
 
 2. La demande d'inclusion additionnelle à l'ordre du jour d'un ou plusieurs points à traiter pourra être faite par tout associé, à condition qu'au moins 20 % des membres y participent. Si l'Assemblée a déjà été convoquée, ladite demande peut être présentée au Conseil d'Administration jusqu'à 15 jours calendaires avant la date à laquelle cet organe doit se réunir. L'Assemblée ne pourra adopter de résolutions que sur les points inscrits à l'ordre du jour, sauf si elle a été constituée à caractère universel ou si les résolutions portent sur la convocation d'une nouvelle Assemblée Générale. Les points qui ont été traités mais n'ont pas été inscrits à l'ordre du jour devront être inscrits — et, le cas échéant, soumis au vote et entérinés — lors de la prochaine Assemblée, qu'elle soit ordinaire ou extraordinaire.
 
+3. L'Assemblée Générale sera valablement constituée en Assemblée Universelle lorsque tous les membres de l'Association seront présents ou représentés et accepteront à l'unanimité la tenue de la réunion et l'ordre du jour proposé, sans qu'il soit nécessaire de respecter les exigences formelles de convocation prévues à l'article 8.
+
 ### Article 10. Vote et Adoption de Résolutions de l'Assemblée Générale.
 
 1. Lors des réunions de l'Assemblée Générale, chaque associé dispose d'une voix.
@@ -173,6 +175,8 @@ L'Assemblée Générale a le pouvoir de :
 5. Pour adopter des résolutions relatives à la dissolution de Nobodies, à la disposition et à l'aliénation de ses biens, le nombre de voix établi à l'article 33 sera requis.
 
 6. La représentation auprès du Ministère de l'Intérieur (conformément à la Loi Organique 1/2002 du 22 mars, réglementant le Droit d'Association) aux fins de communiquer toute modification statutaire de Nobodies, des membres du Conseil d'Administration, ou de l'éventuelle dissolution de l'Association, incombe au Secrétaire du Conseil d'Administration ou, à défaut, à tout autre membre du Conseil expressément désigné par celui-ci à cette fin, et uniquement sur mandat spécifique octroyé par l'Assemblée Générale.
+
+7. Les associés pourront émettre leur vote sur les points de l'ordre du jour préalablement à la tenue de l'Assemblée Générale, à condition que leur identité et la validité du vote soient garanties. Lesdits votes anticipés seront comptabilisés avec ceux émis pendant la session.
 
 ---
 
@@ -258,6 +262,8 @@ Le Conseil d'Administration dispose des attributions suivantes :
 
 2. Il se réunira en session extraordinaire lorsqu'il sera convoqué à ce titre par le Président, ou bien si un tiers des membres qui le composent en fait la demande.
 
+3. Les réunions du Conseil d'Administration pourront se tenir aussi bien en présentiel que par vidéoconférence ou d'autres moyens de communication à distance.
+
 ### Article 15. Constitution et Adoption de Résolutions du Conseil d'Administration.
 
 1. Le Conseil d'Administration est valablement constitué s'il a été dûment convoqué et s'il existe un quorum de la moitié plus un de ses membres.
@@ -265,6 +271,8 @@ Le Conseil d'Administration dispose des attributions suivantes :
 2. Les membres du Conseil d'Administration sont tenus d'assister à toutes les réunions convoquées, bien qu'ils puissent s'en excuser pour des raisons justifiées. La présence du Président ou du Secrétaire, ou le cas échéant des personnes qui les remplacent sur délégation préalable de ceux-ci, est toujours requise.
 
 3. Le Conseil d'Administration adopte ses résolutions à la majorité simple des voix des présents. En cas d'égalité, le vote du Président du Conseil d'Administration ou de la personne déléguée par celui-ci sera considéré comme vote prépondérant avec capacité de départage.
+
+4. Le Conseil d'Administration pourra adopter des résolutions sans tenir de réunion lorsque tous ses membres expriment par écrit, y compris par voie électronique, leur vote favorable à la résolution proposée. Le Secrétaire consignera lesdites résolutions dans le procès-verbal correspondant.
 
 ### Article 16. Délégation de Pouvoirs et Désignation de Représentants.
 
@@ -569,4 +577,4 @@ Pour tout ce qui n'est pas prévu dans les présents Statuts, s'appliquera la Lo
 
 ---
 
-*Ce document a été traduit automatiquement à partir de la version espagnole faisant foi par Claude Code (Opus 4.6) et révisé pour la dernière fois le 12 février 2026.*
+*Ce document a été traduit automatiquement à partir de la version espagnole faisant foi par Claude Code (Opus 4.6) et révisé pour la dernière fois le 4 avril 2026.*

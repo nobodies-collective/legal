@@ -138,7 +138,7 @@ Die Mitgliederversammlung ist befugt:
 
 2. Der Vorstand kann die Mitgliederversammlung außerordentlich einberufen, wenn er dies für zweckmäßig hält, und muss dies tun, wenn mindestens die Hälfte der Mitglieder dies beantragt; in diesem Fall muss die Versammlung innerhalb von dreißig Tagen nach dem Antrag stattfinden.
 
-   Diese Versammlung kann sowohl in Präsenz als auch per Fernkommunikation stattfinden. Ebenso ist in jedem Fall die Nutzung elektronischer oder Fernabstimmungsverfahren für die Beschlussfassung zulässig, es sei denn, die Mehrheit der anwesenden Teilnehmer widerspricht diesem System ausdrücklich, und sofern die Identität der Mitglieder sowie die Gültigkeit der abgegebenen Stimme gewährleistet sind.
+   Diese Versammlung kann sowohl in Präsenz als auch per Videokonferenz oder andere Fernkommunikationsmittel stattfinden. Ebenso ist in jedem Fall die Nutzung elektronischer oder Fernabstimmungsverfahren für die Beschlussfassung zulässig, es sei denn, die Mehrheit der anwesenden Teilnehmer widerspricht diesem System ausdrücklich, und sofern die Identität der Mitglieder sowie die Gültigkeit der abgegebenen Stimme gewährleistet sind.
 
 3. Die Versammlung wird vom Vorstand durch eine Einberufung einberufen, die mindestens die Tagesordnung, den Ort (kann auch per Fernkommunikation erfolgen, wobei in diesem Fall die Zugangsinformationen mitzuteilen sind), das Datum und die Uhrzeit der Sitzung enthält.
 
@@ -160,6 +160,8 @@ Die Mitgliederversammlung ist befugt:
 
 2. Die Aufnahme zusätzlicher Punkte in die Tagesordnung kann von jedem Mitglied beantragt werden, sofern mindestens 20% der Mitglieder den Antrag unterstützen. Wurde die Versammlung bereits einberufen, kann dieser Antrag bis 15 Kalendertage vor dem Sitzungstermin beim Vorstand eingereicht werden. Die Versammlung kann nur Beschlüsse zu den in der Tagesordnung aufgeführten Punkten fassen, es sei denn, sie ist als Universalversammlung zusammengetreten oder die Beschlüsse betreffen die Einberufung einer neuen Mitgliederversammlung. Punkte, die behandelt wurden, aber nicht in der Tagesordnung enthalten waren, müssen in der nächsten Versammlung, ob ordentlich oder außerordentlich, aufgenommen und gegebenenfalls abgestimmt und bestätigt werden.
 
+3. Die Mitgliederversammlung ist als Universalversammlung ordnungsgemäß konstituiert, wenn alle Mitglieder des Vereins anwesend oder vertreten sind und einstimmig der Abhaltung der Versammlung sowie der vorgeschlagenen Tagesordnung zustimmen, ohne dass die in Artikel 8 festgelegten formellen Einberufungsvoraussetzungen erfüllt werden müssen.
+
 ### Artikel 10. Abstimmung und Beschlussfassung der Mitgliederversammlung.
 
 1. In den Sitzungen der Mitgliederversammlung hat jedes Mitglied eine Stimme.
@@ -173,6 +175,8 @@ Die Mitgliederversammlung ist befugt:
 5. Für Beschlüsse über die Auflösung von Nobodies sowie die Verfügung und Veräußerung seines Vermögens ist die in Artikel 33 festgelegte Stimmenzahl erforderlich.
 
 6. Die Vertretung gegenüber dem Innenministerium (gemäß dem Organgesetz 1/2002 vom 22. März über das Vereinigungsrecht) hinsichtlich der Mitteilung jeglicher Satzungsänderungen von Nobodies, der Zusammensetzung des Vorstands oder der etwaigen Auflösung des Vereins obliegt dem Sekretär des Vorstands oder, ersatzweise, einem anderen vom Vorstand ausdrücklich zu diesem Zweck benannten Vorstandsmitglied, und ausschließlich auf der Grundlage eines spezifischen Mandats der Mitgliederversammlung.
+
+7. Die Mitglieder können ihre Stimme zu den Tagesordnungspunkten vor der Mitgliederversammlung abgeben, sofern ihre Identität und die Gültigkeit der Stimme gewährleistet sind. Diese im Voraus abgegebenen Stimmen werden zusammen mit den während der Sitzung abgegebenen Stimmen gezählt.
 
 ---
 
@@ -258,6 +262,8 @@ Der Vorstand hat folgende Befugnisse:
 
 2. Er tritt zu einer außerordentlichen Sitzung zusammen, wenn der Vorsitzende diese einberuft oder wenn ein Drittel seiner Mitglieder dies beantragt.
 
+3. Die Sitzungen des Vorstands können sowohl in Präsenz als auch per Videokonferenz oder andere Fernkommunikationsmittel abgehalten werden.
+
 ### Artikel 15. Beschlussfähigkeit und Beschlussfassung im Vorstand.
 
 1. Der Vorstand ist ordnungsgemäß konstituiert, wenn er fristgerecht einberufen wurde und mindestens die Hälfte plus eins seiner Mitglieder anwesend ist.
@@ -265,6 +271,8 @@ Der Vorstand hat folgende Befugnisse:
 2. Die Vorstandsmitglieder sind verpflichtet, an allen einberufenen Sitzungen teilzunehmen, können sich jedoch aus triftigen Gründen entschuldigen. Die Anwesenheit des Vorsitzenden oder des Sekretärs oder gegebenenfalls ihrer Stellvertreter nach vorheriger Delegation ist stets erforderlich.
 
 3. Der Vorstand fasst Beschlüsse mit einfacher Mehrheit der Stimmen der Anwesenden. Bei Stimmengleichheit gilt die Stimme des Vorsitzenden oder der von ihm delegierten Person als entscheidende Stimme mit Stichentscheidungsbefugnis.
+
+4. Der Vorstand kann Beschlüsse ohne Abhaltung einer Sitzung fassen, wenn alle seine Mitglieder schriftlich, einschließlich auf elektronischem Wege, ihre Zustimmung zum vorgeschlagenen Beschluss erklären. Der Sekretär hat diese Beschlüsse im entsprechenden Protokoll festzuhalten.
 
 ### Artikel 16. Delegation von Befugnissen und Ernennung von Vertretern.
 
@@ -569,4 +577,4 @@ In allen Angelegenheiten, die in dieser Satzung nicht geregelt sind, gilt das Or
 
 ---
 
-*Dieses Dokument wurde von Claude Code (Opus 4.6) maschinell aus der maßgeblichen spanischen Fassung übersetzt und zuletzt am 12. Februar 2026 überarbeitet.*
+*Dieses Dokument wurde von Claude Code (Opus 4.6) maschinell aus der maßgeblichen spanischen Fassung übersetzt und zuletzt am 4. April 2026 überarbeitet.*

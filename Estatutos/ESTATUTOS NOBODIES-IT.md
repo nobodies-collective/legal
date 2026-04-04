@@ -138,7 +138,7 @@ L'Assemblea Generale ha il potere di:
 
 2. L'organo di governo può convocare l'Assemblea Generale in via straordinaria ogni volta che lo ritenga opportuno, e deve farlo quando lo richiedano almeno la metà degli associati; in tal caso, l'Assemblea avrà luogo entro trenta giorni dalla richiesta.
 
-   Tale Assemblea potrà riunirsi sia in presenza che in modalità telematica. Parimenti, sarà in ogni caso consentito l'uso di mezzi di voto elettronico o a distanza per l'adozione delle delibere, salvo che la maggioranza dei partecipanti presenti manifesti espressamente la propria opposizione a tale sistema, e purché sia garantita l'identità degli associati e la validità del voto espresso.
+   Tale Assemblea potrà riunirsi sia in presenza che per videoconferenza o altri mezzi telematici. Parimenti, sarà in ogni caso consentito l'uso di mezzi di voto elettronico o a distanza per l'adozione delle delibere, salvo che la maggioranza dei partecipanti presenti manifesti espressamente la propria opposizione a tale sistema, e purché sia garantita l'identità degli associati e la validità del voto espresso.
 
 3. L'Assemblea sarà convocata dal Consiglio Direttivo mediante convocazione che conterrà, come minimo, l'ordine del giorno, il luogo (potendo essere telematica, fornendo in tal caso le istruzioni di accesso), la data e l'ora della riunione.
 
@@ -160,6 +160,8 @@ L'Assemblea Generale ha il potere di:
 
 2. La richiesta di inclusione aggiuntiva nell'ordine del giorno di uno o più argomenti da trattare potrà essere effettuata da qualsiasi associato, se a tale richiesta partecipa almeno il 20% dei membri. Nel caso in cui l'Assemblea sia già stata convocata, tale richiesta può essere presentata al Consiglio Direttivo fino a 15 giorni naturali prima della data in cui tale organo deve riunirsi. L'Assemblea potrà adottare delibere esclusivamente in merito ai punti inclusi nell'ordine del giorno, salvo che sia stata costituita in forma universale o che le delibere si riferiscano alla convocazione di una nuova Assemblea Generale. I punti trattati ma non inclusi nell'ordine del giorno dovranno essere inclusi - e se del caso, votati e ratificati - nella successiva Assemblea, sia essa ordinaria o straordinaria.
 
+3. L'Assemblea Generale sarà validamente costituita come Assemblea Universale quando tutti i membri dell'Associazione siano presenti o rappresentati e accettino all'unanimità la celebrazione della riunione e l'ordine del giorno proposto, senza necessità di adempiere ai requisiti formali di convocazione previsti dall'articolo 8.
+
 ### Articolo 10. Votazione e Adozione di Delibere dell'Assemblea Generale.
 
 1. Nelle riunioni dell'Assemblea Generale, spetta un voto a ciascun associato.
@@ -173,6 +175,8 @@ L'Assemblea Generale ha il potere di:
 5. Per adottare delibere sullo scioglimento di Nobodies, la disposizione e alienazione dei suoi beni, sarà necessario disporre del numero di voti stabilito dall'articolo 33.
 
 6. La rappresentanza presso il Ministero dell'Interno (conformemente a quanto previsto dalla Legge Organica 1/2002, del 22 marzo, che regola il Diritto di Associazione) ai fini relativi alla comunicazione di ogni modifica statutaria di Nobodies, dei componenti del Consiglio Direttivo, o dell'eventuale scioglimento dell'Associazione, spetta al Segretario del Consiglio Direttivo o, in sua mancanza, a qualsiasi altro membro del Consiglio che questo designi espressamente a tal fine, e unicamente su mandato specifico conferito dall'Assemblea Generale.
+
+7. Gli associati potranno esprimere il proprio voto sui punti dell'ordine del giorno prima della celebrazione dell'Assemblea Generale, purché siano garantite la loro identità e la validità del voto. Tali voti anticipati saranno computati insieme a quelli espressi durante la sessione.
 
 ---
 
@@ -258,6 +262,8 @@ Il Consiglio Direttivo ha le seguenti facoltà:
 
 2. Si riunirà in sessione straordinaria quando lo convochi a tale titolo il Presidente, oppure se lo richieda un terzo dei membri che lo compongono.
 
+3. Le riunioni del Consiglio Direttivo potranno tenersi sia in presenza che per videoconferenza o altri mezzi telematici.
+
 ### Articolo 15. Costituzione e Adozione di Delibere nel Consiglio Direttivo.
 
 1. Il Consiglio Direttivo è validamente costituito se è stato convocato con anticipo e sussiste un quorum della metà più uno dei suoi membri.
@@ -265,6 +271,8 @@ Il Consiglio Direttivo ha le seguenti facoltà:
 2. I membri del Consiglio Direttivo sono obbligati a partecipare a tutte le riunioni convocate, sebbene, per cause giustificate, possano scusarsi. La presenza del Presidente oppure del Segretario, o eventualmente delle persone che li sostituiscano, previa delega da parte loro, è sempre necessaria.
 
 3. Il Consiglio Direttivo adotta le delibere a maggioranza semplice dei voti dei presenti. In caso di parità, il voto del Presidente del Consiglio Direttivo o della persona da lui delegata sarà considerato voto di qualità con capacità di dirimere il pareggio.
+
+4. Il Consiglio Direttivo potrà adottare delibere senza necessità di riunione quando tutti i suoi membri manifestino per iscritto, compresi i mezzi elettronici, il proprio voto favorevole alla delibera proposta. Il Segretario darà atto di tali delibere nel verbale corrispondente.
 
 ### Articolo 16. Delega di Facoltà e Designazione di Rappresentanti.
 
@@ -569,4 +577,4 @@ Per tutto quanto non previsto nel presente Statuto si applicherà la vigente Leg
 
 ---
 
-*Questo documento è stato tradotto automaticamente dalla versione spagnola autorevole da Claude Code (Opus 4.6) e revisionato l'ultima volta il 12 febbraio 2026.*
+*Questo documento è stato tradotto automaticamente dalla versione spagnola autorevole da Claude Code (Opus 4.6) e revisionato l'ultima volta il 4 aprile 2026.*
