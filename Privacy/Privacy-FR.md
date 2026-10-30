@@ -25,31 +25,28 @@ La présente Politique a une valeur informative et complète la section 4 (Prote
 
 ## 3. Données que nous traitons
 
-L'Association traite les catégories de données personnelles suivantes :
+L'Association traite les catégories de données personnelles suivantes. Les exemples indiqués sont donnés à titre indicatif et non exhaustif :
 
-- **Identification et compte** — Nom légal, burner name (le nom sous lequel vous êtes connu·e dans la communauté), adresses e-mail et, si vous vous connectez avec Google, le nom et l'adresse e-mail que Google nous transmet. Si l'Association vous attribue un compte @nobodies.team, également les données de ce compte.
-- **Profil** — Ville, pays, biographie, pronoms, anniversaire (jour et mois uniquement, jamais l'année), photo de profil, langues, contact d'urgence et coordonnées facultatives (téléphone, Signal, Telegram, WhatsApp, Discord ou autres).
-- **Participation** — Appartenance aux équipes, rôles attribués, créneaux de bénévolat, participation aux événements et aux barrios, et billets.
-- **Candidatures de Colaborador et d'Asociado** — Les candidatures présentées, y compris les lettres de motivation, et les décisions du Conseil d'Administration à leur sujet. Pour les Asociados, également la participation aux votes de l'Assemblée.
-- **Données financières** — Pour les remboursements de frais : nom légal, IBAN, détails de la dépense et justificatifs. Pour les achats dans la boutique : nom, adresse e-mail et, lorsqu'une facture est demandée, numéro fiscal et adresse.
-- **Données de santé et d'alimentation (facultatives)** — Problèmes de santé, préférences alimentaires, allergies et intolérances, uniquement si vous choisissez de les fournir.
-- **Communications** — Préférences de communication, e-mails que nous vous envoyons, messages, retours, réponses aux enquêtes et, si vous utilisez l'assistant d'aide, vos conversations avec lui.
-- **Consentement** — Registre des documents juridiques que vous avez acceptés, avec la date, l'adresse IP et l'agent utilisateur du navigateur au moment de l'acceptation.
-- **Journal d'activité** — Journal d'audit des actions effectuées dans l'application par vous, par d'autres membres ayant des fonctions de gestion ou par des processus automatiques qui vous concernent.
+- **Identification et contact** — Les données qui vous identifient et permettent de vous contacter, telles que votre nom légal, votre burner name (le nom sous lequel vous êtes connu·e dans la communauté), vos adresses e-mail et les données de vos comptes.
+- **Profil** — Les informations que vous ajoutez à votre profil, telles que votre photo, votre ville, vos langues, votre contact d'urgence ou des coordonnées supplémentaires.
+- **Participation et bénévolat** — Votre activité au sein de l'Association, telle que les équipes et les rôles, les créneaux, la participation aux événements et les billets.
+- **Adhésion et gouvernance** — Les candidatures de Colaborador ou d'Asociado et les décisions à leur sujet, les fonctions occupées et la participation aux votes de l'Assemblée.
+- **Paiements et finances** — Les données nécessaires aux achats, aux factures et aux remboursements de frais, telles que les données de facturation, les coordonnées bancaires et les justificatifs.
+- **Communications** — Vos préférences de communication et les messages que vous échangez avec l'Association ou par l'intermédiaire de l'application, tels que les e-mails, les retours, les réponses aux enquêtes ou les conversations avec l'assistant d'aide.
+- **Données techniques et d'utilisation** — Les données générées par l'utilisation de l'application, telles que l'adresse IP et le navigateur, le registre des documents juridiques que vous avez acceptés et le journal d'audit des actions qui vous concernent.
+- **Données de santé (facultatives)** — Les informations de santé que vous choisissez de fournir, telles que des problèmes de santé, des allergies ou des besoins alimentaires.
 
 ## 4. Finalités du traitement
 
 L'Association traite les données personnelles pour :
 
-- Gérer votre relation avec l'Association et votre participation aux équipes, créneaux, événements et barrios.
-- Traiter les candidatures de Colaborador et d'Asociado et tenir les registres des membres et des collaborateurs conformément à la législation espagnole.
-- Organiser les votes de l'Assemblée et en consigner les résultats.
-- Créer et gérer les comptes @nobodies.team et donner accès aux groupes et aux drives partagés de chaque équipe.
-- Gérer les billets, les achats dans la boutique, les factures et les remboursements de frais.
-- Communiquer sur les activités, événements et actualités de l'Association, conformément à vos préférences de communication.
-- Faciliter le contact entre membres, selon la visibilité que vous choisissez pour chaque information.
-- Veiller à la sécurité et à la logistique des événements, comme le contact d'urgence, les informations médicales et les besoins alimentaires.
-- Répondre à vos questions via l'assistant d'aide, uniquement si vous choisissez de l'utiliser.
+- Gérer votre relation avec l'Association et organiser ses activités et événements, y compris leur sécurité et leur logistique.
+- Coordonner le bénévolat, comme les équipes, les rôles, les créneaux et l'accès aux outils partagés de l'Association.
+- Gérer l'adhésion et la gouvernance : les candidatures de Colaborador et d'Asociado, les registres des membres et des collaborateurs, les fonctions et les votes de l'Assemblée.
+- Gérer les billets, les achats, les paiements, les factures et les remboursements de frais.
+- Vous informer des activités et de l'actualité de l'Association conformément à vos préférences, et faciliter le contact entre membres selon la visibilité que vous choisissez.
+- Proposer des fonctionnalités facultatives, comme l'assistant d'aide, lorsque vous choisissez de les utiliser.
+- Assurer la sécurité de l'application et démontrer le respect de la réglementation.
 - Respecter les obligations légales, comptables, fiscales et statutaires de l'Association.
 
 L'Association ne vend pas de données personnelles et ne les communique pas à des fins étrangères à ses activités.
@@ -58,10 +55,10 @@ L'Association ne vend pas de données personnelles et ne les communique pas à d
 
 L'Association traite les données personnelles sur les bases juridiques suivantes :
 
-- **Relation avec l'Association (article 6.1.b RGPD)** — Le traitement nécessaire pour gérer votre participation en tant que Volontaire, Colaborador ou Asociado, vos billets et vos achats.
+- **Relation avec l'Association (article 6.1.b RGPD)** — Le traitement nécessaire pour gérer votre participation en tant que Volontaire, Colaborador ou Asociado et les services que vous demandez, comme les billets ou les achats.
 - **Obligation légale (article 6.1.c RGPD)** — La tenue du registre des membres (Loi Organique 1/2002) ainsi que de la comptabilité et des documents fiscaux (Code de commerce et Loi 58/2003, Loi générale fiscale).
-- **Intérêt légitime (article 6.1.f RGPD)** — La gestion des activités de l'Association, les communications organisationnelles, la sécurité de l'application et le journal d'audit.
-- **Consentement (article 6.1.a RGPD)** — Les données facultatives que vous choisissez de fournir, les communications non essentielles et l'utilisation de l'assistant d'aide.
+- **Intérêt légitime (article 6.1.f RGPD)** — L'organisation des activités de l'Association, les communications organisationnelles, la sécurité de l'application et le journal d'audit.
+- **Consentement (article 6.1.a RGPD)** — Les données facultatives que vous choisissez de fournir, les communications non essentielles et les fonctionnalités facultatives, comme l'assistant d'aide.
 - **Consentement explicite (article 9.2.a RGPD)** — Les données de santé, qui ne sont traitées que si vous choisissez de les fournir.
 
 Vous pouvez retirer votre consentement à tout moment, sans que cela affecte la licéité du traitement effectué auparavant.
@@ -70,53 +67,51 @@ Vous pouvez retirer votre consentement à tout moment, sans que cela affecte la 
 
 ### 6.1 Prestataires
 
-L'Association fait appel aux prestataires de services suivants. Chacun ne reçoit que les données nécessaires à la fonction indiquée :
+L'Association fait appel à des prestataires de services pour les fonctions suivantes. Chaque prestataire ne reçoit que les données nécessaires à sa fonction. Les noms indiqués sont ceux des prestataires actuellement utilisés :
 
-- **Google (connexion)** — Pour vous connecter avec votre compte Google : votre nom et votre adresse e-mail. ([Politique de confidentialité](https://policies.google.com/privacy))
-- **Google Workspace** — Pour créer les comptes @nobodies.team et gérer les groupes et les drives partagés des équipes : votre nom et votre adresse e-mail.
-- **Gmail (Google Workspace)** — Pour distribuer les e-mails que nous vous envoyons : votre adresse e-mail, votre nom et le contenu du message.
-- **Google Maps** — Pour la recherche de lieux et les cartes : le lieu que vous saisissez et votre adresse IP, envoyés par votre navigateur. ([Politique de confidentialité](https://policies.google.com/privacy))
-- **Stripe** — Pour les paiements par carte dans la boutique : nom et adresse e-mail de l'acheteur. Les données de carte sont saisies directement auprès de Stripe et l'Association ne les reçoit pas. ([Politique de confidentialité](https://stripe.com/privacy))
-- **Holded** — Pour la comptabilité de l'Association. Pour les remboursements de frais : nom légal, burner name, IBAN, détails de la dépense et justificatifs. Pour les factures de la boutique : nom, numéro fiscal, adresse et adresse e-mail de l'acheteur. ([Politique de confidentialité](https://www.holded.com/privacy))
-- **Ticket Tailor** — Pour la vente et l'émission des billets : nom et adresse e-mail du titulaire du billet, et enregistrements d'entrée. ([Politique de confidentialité](https://www.tickettailor.com/legal/privacy-policy))
-- **MailerLite** — Pour les listes de diffusion : votre adresse e-mail et les groupes d'envoi auxquels vous appartenez (par exemple, titulaires de billets ou bénévoles de créneaux). Non communiqué si vous avez refusé les e-mails marketing. ([Politique de confidentialité](https://www.mailerlite.com/legal/privacy-policy))
-- **Anthropic** — Pour l'assistant d'aide de l'application, uniquement lorsque vous l'utilisez : vos messages, ainsi que votre burner name, votre langue, votre type d'adhésion, vos rôles, vos équipes et vos prochains créneaux. Les conditions de ce service figurent dans les Conditions de l'Assistant Conversationnel. ([Politique de confidentialité](https://www.anthropic.com/legal/privacy))
+- **Connexion et espace de travail** — Authentification, comptes @nobodies.team et outils partagés des équipes : données d'identification et de contact. Actuellement Google Workspace.
+- **Envoi d'e-mails** — Distribution des e-mails que nous vous envoyons : votre adresse e-mail et le contenu des messages. Actuellement Gmail (Google Workspace).
+- **Cartes** — Recherche de lieux et cartes : les lieux que vous recherchez et les données techniques envoyées par votre navigateur. Actuellement Google Maps.
+- **Traitement des paiements** — Paiements par carte : les données de l'achat et de l'acheteur. Les données de carte sont saisies directement auprès du prestataire et l'Association ne les reçoit pas. Actuellement Stripe.
+- **Comptabilité** — Comptabilité, facturation et remboursements de frais : les données financières nécessaires à chaque opération. Actuellement Holded.
+- **Billetterie** — Vente, émission et contrôle des billets : les données d'identification et de contact des titulaires. Actuellement Ticket Tailor.
+- **Listes de diffusion** — Envois aux listes de diffusion, conformément à vos préférences de communication : votre adresse e-mail et les listes auxquelles vous appartenez. Actuellement MailerLite.
+- **Assistant d'aide** — Réponse à vos questions, uniquement lorsque vous utilisez l'assistant : vos messages et le contexte nécessaire pour y répondre, comme le précisent les Conditions de l'Assistant Conversationnel. Actuellement Anthropic.
 
-Ces prestataires traitent les données pour le compte de l'Association et exclusivement aux fins décrites dans la présente Politique.
+Ces prestataires traitent les données pour le compte de l'Association et exclusivement aux fins décrites dans la présente Politique. L'Association peut les remplacer ou faire appel à d'autres prestataires pour des fonctions de même nature, avec des garanties équivalentes ; la liste mise à jour est publiée conformément à la section 11.
 
 Les données personnelles peuvent également être communiquées lorsque la loi l'exige ou lorsque cela est nécessaire au respect des obligations légales de l'Association.
 
 ### 6.2 Transferts internationaux
 
-Certains prestataires peuvent traiter des données en dehors de l'Espace économique européen. Dans ce cas, le transfert est encadré par des garanties appropriées, telles que les clauses contractuelles types approuvées par la Commission européenne.
+Certains prestataires peuvent traiter des données en dehors de l'Espace économique européen. Dans ce cas, le transfert est encadré par une décision d'adéquation de la Commission européenne ou par des garanties appropriées, telles que les clauses contractuelles types approuvées par celle-ci.
 
-En particulier, Anthropic, PBC a son siège aux États-Unis. Le traitement des données par Anthropic implique un transfert international en dehors de l'Espace économique européen, encadré par les clauses contractuelles types approuvées par la Commission européenne. Les données envoyées ne sont pas utilisées pour entraîner ses modèles.
+En particulier, le prestataire actuel de l'assistant d'aide, Anthropic, PBC, a son siège aux États-Unis ; l'utilisation de l'assistant implique un transfert international encadré par les clauses contractuelles types approuvées par la Commission européenne. Les données envoyées ne sont pas utilisées pour entraîner ses modèles.
 
 ## 7. Conservation des données
 
-- **Compte actif** — Les données sont conservées tant que votre compte est actif.
-- **Pas d'expiration pour inactivité** — Les comptes ne sont actuellement pas supprimés pour inactivité : vos données sont conservées jusqu'à ce que vous en demandiez la suppression.
-- **Suppression du compte** — Lorsque vous demandez la suppression, votre appartenance aux équipes et vos rôles prennent fin immédiatement. Vos données personnelles sont anonymisées automatiquement 30 jours après la demande ou, si vous détenez un billet pour l'événement en cours, à la fin de la période de conservation postérieure à l'événement, si celle-ci est plus tardive. D'ici là, vous pouvez annuler la demande.
-- **Conversations avec l'assistant d'aide** — Conservées pendant la durée de conservation qui vous est indiquée avant de commencer une conversation, puis supprimées définitivement.
+- **Compte actif** — Les données sont conservées tant que votre compte est actif. Les comptes ne sont actuellement pas supprimés pour inactivité : vos données sont conservées jusqu'à ce que vous en demandiez la suppression.
+- **Suppression du compte** — Lorsque vous demandez la suppression, vos données personnelles sont effacées ou anonymisées dans un délai raisonnable après votre demande, sous réserve des obligations légales de conservation indiquées ci-dessous.
+- **Conversations avec l'assistant d'aide** — Conservées pendant la durée prévue par les Conditions de l'Assistant Conversationnel, puis supprimées définitivement.
 
 Après la suppression, l'Association conserve uniquement les éléments suivants, parce que la loi l'exige ou parce qu'ils sont nécessaires pour démontrer le respect de la réglementation :
 
-- Le registre de qui a été membre ou collaborateur, quelles fonctions ont été occupées et quels créneaux ont été assurés chaque année (Loi Organique 1/2002), rattaché à un compte anonymisé, sans votre nom ni vos coordonnées.
-- Les registres comptables et leurs justificatifs, pendant six ans (article 30 du Code de commerce) et quatre ans à des fins fiscales (article 66 de la Loi 58/2003, Loi générale fiscale). Les remboursements de frais sont conservés intégralement, y compris le nom légal et l'IBAN, car ils constituent des pièces comptables.
-- Les registres de consentement (y compris l'adresse IP et l'agent utilisateur au moment de l'acceptation) et d'audit, qui démontrent que le traitement reposait sur une base juridique et que la suppression a bien été effectuée.
+- Le registre des membres et des collaborateurs, avec les fonctions occupées et la participation de chaque année (Loi Organique 1/2002), dissocié de votre nom et de vos coordonnées.
+- Les registres comptables et leurs justificatifs, y compris les remboursements de frais et les données personnelles qu'ils contiennent, pendant les durées exigées par la loi (six ans en vertu de l'article 30 du Code de commerce et quatre ans à des fins fiscales en vertu de l'article 66 de la Loi 58/2003, Loi générale fiscale).
+- Les registres de consentement et d'audit, qui démontrent que le traitement reposait sur une base juridique et que la suppression a bien été effectuée.
 
 ## 8. Vos droits
 
 Vous pouvez exercer à tout moment les droits suivants :
 
-- **Accès** — Demander une copie de vos données personnelles. Dans **Profil → Mes données**, l'option **Télécharger mes données** vous fournit un fichier contenant toutes les données que l'application conserve à votre sujet.
-- **Rectification** — Corriger des données inexactes ou incomplètes. Vous pouvez modifier votre profil directement dans l'application.
-- **Effacement** — Demander la suppression de vos données. Vous pouvez la demander depuis **Profil → Mes données**, dans les conditions décrites à la section 7.
-- **Portabilité** — Recevoir vos données dans un format structuré et lisible par machine. Le fichier **Télécharger mes données** est au format JSON.
+- **Accès** — Demander une copie de vos données personnelles.
+- **Rectification** — Corriger des données inexactes ou incomplètes.
+- **Effacement** — Demander la suppression de vos données, dans les conditions décrites à la section 7.
+- **Portabilité** — Recevoir vos données dans un format structuré, couramment utilisé et lisible par machine.
 - **Limitation** — Demander la limitation du traitement.
-- **Opposition** — Vous opposer à certains traitements. Vous pouvez choisir les e-mails que vous recevez dans **Préférences de communication**.
+- **Opposition** — Vous opposer à certains traitements, y compris aux communications non essentielles.
 
-Pour exercer un droit que vous ne pouvez pas gérer directement dans l'application, écrivez à **dpo@nobodies.team** ou au Conseil d'Administration à l'adresse **board@nobodies.team**.
+L'application met à votre disposition des outils pour télécharger vos données, mettre à jour votre profil, gérer vos préférences de communication et demander la suppression de votre compte. Pour exercer un droit que vous ne pouvez pas gérer directement dans l'application, écrivez à **dpo@nobodies.team** ou au Conseil d'Administration à l'adresse **board@nobodies.team**.
 
 ## 9. Cookies
 
@@ -134,13 +129,13 @@ L'Association n'utilise pas de cookies d'analyse, de publicité ni de suivi par 
 L'Association applique des mesures techniques et organisationnelles appropriées pour protéger les données personnelles, notamment :
 
 - Chiffrement des communications (HTTPS).
-- Connexion sécurisée avec Google ou au moyen de liens à usage unique envoyés par e-mail.
-- Contrôles d'accès par rôles et journal d'audit. L'accès aux informations médicales est journalisé et vous pouvez le consulter sur votre profil.
+- Méthodes de connexion sécurisées.
+- Contrôles d'accès par rôles et journal d'audit, y compris la journalisation des accès aux données de santé.
 - Revues de sécurité régulières.
 
 ## 11. Modifications
 
-L'Association peut modifier la présente Politique. Les modifications requièrent l'approbation du Conseil d'Administration et sont publiées sur [github.com/nobodies-collective/legal](https://github.com/nobodies-collective/legal). Les modifications substantielles seront communiquées par e-mail aux membres actifs.
+L'Association peut modifier la présente Politique, y compris la liste des prestataires de la section 6, pour tenir compte de l'évolution de ses activités, de l'application ou de la réglementation. Les modifications requièrent l'approbation du Conseil d'Administration et sont publiées sur [github.com/nobodies-collective/legal](https://github.com/nobodies-collective/legal). Les modifications substantielles seront communiquées par e-mail aux membres actifs.
 
 ## 12. Contact et réclamations
 

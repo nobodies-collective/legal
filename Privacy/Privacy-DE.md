@@ -25,31 +25,28 @@ Diese Erklärung dient der Information und ergänzt Abschnitt 4 (Datenschutz und
 
 ## 3. Welche Daten wir verarbeiten
 
-Der Verein verarbeitet die folgenden Kategorien personenbezogener Daten:
+Der Verein verarbeitet die folgenden Kategorien personenbezogener Daten. Die genannten Beispiele dienen der Veranschaulichung und sind nicht abschließend:
 
-- **Identität und Konto** — Bürgerlicher Name, Burner Name (der Name, unter dem du in der Community bekannt bist), E-Mail-Adressen und, wenn du dich mit Google anmeldest, der Name und die E-Mail-Adresse, die Google uns übermittelt. Wenn der Verein dir ein @nobodies.team-Konto zuweist, auch die Daten dieses Kontos.
-- **Profil** — Stadt, Land, Biografie, Pronomen, Geburtstag (nur Tag und Monat, niemals das Jahr), Profilbild, Sprachen, Notfallkontakt und optionale Kontaktdaten (Telefon, Signal, Telegram, WhatsApp, Discord oder andere).
-- **Teilnahme** — Teamzugehörigkeiten, zugewiesene Rollen, Freiwilligenschichten, Teilnahme an Veranstaltungen und Barrios sowie Tickets.
-- **Anträge als Colaborador und Asociado** — Die eingereichten Anträge, einschließlich der Motivationsschreiben, und die Entscheidungen des Vorstands darüber. Bei Asociados auch die Teilnahme an Abstimmungen der Mitgliederversammlung.
-- **Finanzdaten** — Für Auslagenerstattungen: bürgerlicher Name, IBAN, Angaben zur Ausgabe und Belege. Für Käufe im Shop: Name, E-Mail-Adresse und, wenn eine Rechnung angefordert wird, Steuernummer und Anschrift.
-- **Gesundheits- und Ernährungsdaten (optional)** — Gesundheitliche Beschwerden, Ernährungsvorlieben, Allergien und Unverträglichkeiten, nur wenn du sie angeben möchtest.
-- **Kommunikation** — Kommunikationseinstellungen, E-Mails, die wir dir senden, Nachrichten, Feedback, Antworten auf Umfragen und, wenn du den Hilfe-Assistenten nutzt, deine Gespräche mit ihm.
-- **Einwilligung** — Aufzeichnung der rechtlichen Dokumente, denen du zugestimmt hast, mit Datum, IP-Adresse und User-Agent des Browsers zum Zeitpunkt der Zustimmung.
-- **Aktivitätsprotokoll** — Ein Audit-Protokoll der Aktionen, die in der Anwendung von dir, von anderen Mitgliedern mit Verwaltungsaufgaben oder von automatischen Prozessen, die dich betreffen, ausgeführt werden.
+- **Identität und Kontakt** — Daten, die dich identifizieren und über die wir dich erreichen, etwa dein bürgerlicher Name, dein Burner Name (der Name, unter dem du in der Community bekannt bist), deine E-Mail-Adressen und deine Kontodaten.
+- **Profil** — Angaben, die du deinem Profil hinzufügst, etwa Foto, Stadt, Sprachen, Notfallkontakt oder weitere Kontaktdaten.
+- **Teilnahme und Freiwilligenarbeit** — Deine Aktivitäten im Verein, etwa Teams und Rollen, Schichten, die Teilnahme an Veranstaltungen und Tickets.
+- **Mitgliedschaft und Vereinsführung** — Anträge als Colaborador oder Asociado und die Entscheidungen darüber, ausgeübte Ämter und die Teilnahme an Abstimmungen der Mitgliederversammlung.
+- **Zahlungen und Finanzen** — Die für Käufe, Rechnungen und Auslagenerstattungen erforderlichen Daten, etwa Rechnungsdaten, Bankverbindung und Belege.
+- **Kommunikation** — Deine Kommunikationseinstellungen und die Nachrichten, die du mit dem Verein oder über die Anwendung austauschst, etwa E-Mails, Feedback, Antworten auf Umfragen oder Gespräche mit dem Hilfe-Assistenten.
+- **Technische und Nutzungsdaten** — Daten, die bei der Nutzung der Anwendung entstehen, etwa IP-Adresse und Browser, die Aufzeichnung der rechtlichen Dokumente, denen du zugestimmt hast, und das Audit-Protokoll der Aktionen, die dich betreffen.
+- **Gesundheitsdaten (optional)** — Gesundheitsangaben, die du machen möchtest, etwa gesundheitliche Beschwerden, Allergien oder Ernährungsbedürfnisse.
 
 ## 4. Zwecke der Verarbeitung
 
 Der Verein verarbeitet personenbezogene Daten, um:
 
-- Deine Beziehung zum Verein und deine Teilnahme an Teams, Schichten, Veranstaltungen und Barrios zu verwalten.
-- Anträge als Colaborador und Asociado zu bearbeiten und die Register der Mitglieder und Mitwirkenden gemäß spanischem Recht zu führen.
-- Abstimmungen der Mitgliederversammlung durchzuführen und ihre Ergebnisse festzuhalten.
-- @nobodies.team-Konten zu erstellen und zu verwalten und Zugang zu den Gruppen und geteilten Ablagen jedes Teams zu gewähren.
-- Tickets, Käufe im Shop, Rechnungen und Auslagenerstattungen zu verwalten.
-- Über Aktivitäten, Veranstaltungen und Neuigkeiten des Vereins zu informieren, gemäß deinen Kommunikationseinstellungen.
-- Den Kontakt zwischen Mitgliedern zu ermöglichen, entsprechend der Sichtbarkeit, die du für jede Angabe wählst.
-- Für Sicherheit und Logistik bei Veranstaltungen zu sorgen, etwa durch Notfallkontakt, medizinische Informationen und Ernährungsbedürfnisse.
-- Deine Fragen über den Hilfe-Assistenten zu beantworten, nur wenn du ihn nutzen möchtest.
+- Deine Beziehung zum Verein zu verwalten und seine Aktivitäten und Veranstaltungen zu organisieren, einschließlich deren Sicherheit und Logistik.
+- Die Freiwilligenarbeit zu koordinieren, etwa Teams, Rollen, Schichten und den Zugang zu den gemeinsamen Werkzeugen des Vereins.
+- Mitgliedschaft und Vereinsführung zu verwalten: Anträge als Colaborador und Asociado, die Register der Mitglieder und Mitwirkenden, Ämter und Abstimmungen der Mitgliederversammlung.
+- Tickets, Käufe, Zahlungen, Rechnungen und Auslagenerstattungen zu verwalten.
+- Dich gemäß deinen Einstellungen über Aktivitäten und Neuigkeiten des Vereins zu informieren und den Kontakt zwischen Mitgliedern entsprechend der von dir gewählten Sichtbarkeit zu ermöglichen.
+- Optionale Funktionen wie den Hilfe-Assistenten bereitzustellen, wenn du sie nutzen möchtest.
+- Die Sicherheit der Anwendung zu gewährleisten und die Einhaltung der Vorschriften nachzuweisen.
 - Die gesetzlichen, buchhalterischen, steuerlichen und satzungsmäßigen Pflichten des Vereins zu erfüllen.
 
 Der Verein verkauft keine personenbezogenen Daten und gibt sie nicht für Zwecke weiter, die nichts mit seinen Aktivitäten zu tun haben.
@@ -58,10 +55,10 @@ Der Verein verkauft keine personenbezogenen Daten und gibt sie nicht für Zwecke
 
 Der Verein verarbeitet personenbezogene Daten auf den folgenden Rechtsgrundlagen:
 
-- **Beziehung zum Verein (Artikel 6 Abs. 1 lit. b DSGVO)** — Die Verarbeitung, die erforderlich ist, um deine Teilnahme als Freiwillige·r, Colaborador oder Asociado, deine Tickets und deine Käufe zu verwalten.
+- **Beziehung zum Verein (Artikel 6 Abs. 1 lit. b DSGVO)** — Die Verarbeitung, die erforderlich ist, um deine Teilnahme als Freiwillige·r, Colaborador oder Asociado und die von dir angeforderten Leistungen, etwa Tickets oder Käufe, zu verwalten.
 - **Rechtliche Verpflichtung (Artikel 6 Abs. 1 lit. c DSGVO)** — Die Führung des Mitgliederregisters (Organgesetz 1/2002) sowie der Buchhaltung und der Steuerunterlagen (spanisches Handelsgesetzbuch und Gesetz 58/2003, Allgemeines Steuergesetz).
-- **Berechtigtes Interesse (Artikel 6 Abs. 1 lit. f DSGVO)** — Die Verwaltung der Aktivitäten des Vereins, die organisatorische Kommunikation, die Sicherheit der Anwendung und das Audit-Protokoll.
-- **Einwilligung (Artikel 6 Abs. 1 lit. a DSGVO)** — Optionale Daten, die du angeben möchtest, nicht wesentliche Mitteilungen und die Nutzung des Hilfe-Assistenten.
+- **Berechtigtes Interesse (Artikel 6 Abs. 1 lit. f DSGVO)** — Die Organisation der Aktivitäten des Vereins, die organisatorische Kommunikation, die Sicherheit der Anwendung und das Audit-Protokoll.
+- **Einwilligung (Artikel 6 Abs. 1 lit. a DSGVO)** — Optionale Daten, die du angeben möchtest, nicht wesentliche Mitteilungen und optionale Funktionen wie der Hilfe-Assistent.
 - **Ausdrückliche Einwilligung (Artikel 9 Abs. 2 lit. a DSGVO)** — Gesundheitsdaten, die nur verarbeitet werden, wenn du sie angeben möchtest.
 
 Du kannst deine Einwilligung jederzeit widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung.
@@ -70,53 +67,51 @@ Du kannst deine Einwilligung jederzeit widerrufen. Der Widerruf berührt nicht d
 
 ### 6.1 Dienstleister
 
-Der Verein nutzt die folgenden Dienstleister. Jeder erhält nur die Daten, die für die jeweils genannte Funktion erforderlich sind:
+Der Verein nutzt Dienstleister für die folgenden Funktionen. Jeder Dienstleister erhält nur die Daten, die für seine Funktion erforderlich sind. Die genannten Namen sind die derzeit eingesetzten Dienstleister:
 
-- **Google (Anmeldung)** — Für die Anmeldung mit deinem Google-Konto: dein Name und deine E-Mail-Adresse. ([Datenschutzerklärung](https://policies.google.com/privacy))
-- **Google Workspace** — Zum Erstellen von @nobodies.team-Konten und zur Verwaltung der Gruppen und geteilten Ablagen der Teams: dein Name und deine E-Mail-Adresse.
-- **Gmail (Google Workspace)** — Für die Zustellung der E-Mails, die wir dir senden: deine E-Mail-Adresse, dein Name und der Inhalt der Nachricht.
-- **Google Maps** — Für Ortssuche und Karten: der Ort, den du eingibst, und deine IP-Adresse, die dein Browser übermittelt. ([Datenschutzerklärung](https://policies.google.com/privacy))
-- **Stripe** — Für Kartenzahlungen im Shop: Name und E-Mail-Adresse der kaufenden Person. Die Kartendaten werden direkt bei Stripe eingegeben, der Verein erhält sie nicht. ([Datenschutzerklärung](https://stripe.com/privacy))
-- **Holded** — Für die Buchhaltung des Vereins. Bei Auslagenerstattungen: bürgerlicher Name, Burner Name, IBAN, Angaben zur Ausgabe und Belege. Bei Rechnungen aus dem Shop: Name, Steuernummer, Anschrift und E-Mail-Adresse der kaufenden Person. ([Datenschutzerklärung](https://www.holded.com/privacy))
-- **Ticket Tailor** — Für den Verkauf und die Ausstellung von Tickets: Name und E-Mail-Adresse der Ticketinhaber·innen sowie Check-ins. ([Datenschutzerklärung](https://www.tickettailor.com/legal/privacy-policy))
-- **MailerLite** — Für Mailinglisten: deine E-Mail-Adresse und die Versandgruppen, denen du angehörst (zum Beispiel Ticketinhaber·innen oder Schicht-Freiwillige). Keine Weitergabe, wenn du Marketing-E-Mails abbestellt hast. ([Datenschutzerklärung](https://www.mailerlite.com/legal/privacy-policy))
-- **Anthropic** — Für den Hilfe-Assistenten in der Anwendung, nur wenn du ihn nutzt: deine Nachrichten sowie dein Burner Name, deine Sprache, deine Mitgliedsstufe, deine Rollen, Teams und kommenden Schichten. Die Bedingungen dieses Dienstes sind in den Nutzungsbedingungen des KI-Assistenten festgelegt. ([Datenschutzerklärung](https://www.anthropic.com/legal/privacy))
+- **Anmeldung und Arbeitsumgebung** — Authentifizierung, @nobodies.team-Konten und gemeinsame Werkzeuge der Teams: Identitäts- und Kontaktdaten. Derzeit Google Workspace.
+- **E-Mail-Versand** — Zustellung der E-Mails, die wir dir senden: deine E-Mail-Adresse und der Inhalt der Nachrichten. Derzeit Gmail (Google Workspace).
+- **Karten** — Ortssuche und Karten: die Orte, nach denen du suchst, und die technischen Daten, die dein Browser übermittelt. Derzeit Google Maps.
+- **Zahlungsabwicklung** — Kartenzahlungen: Daten zum Kauf und zur kaufenden Person. Die Kartendaten werden direkt beim Dienstleister eingegeben, der Verein erhält sie nicht. Derzeit Stripe.
+- **Buchhaltung** — Buchhaltung, Rechnungsstellung und Auslagenerstattungen: die für jeden Vorgang erforderlichen Finanzdaten. Derzeit Holded.
+- **Ticketverkauf** — Verkauf, Ausstellung und Kontrolle von Tickets: Identitäts- und Kontaktdaten der Ticketinhaber·innen. Derzeit Ticket Tailor.
+- **Mailinglisten** — Versand an Mailinglisten gemäß deinen Kommunikationseinstellungen: deine E-Mail-Adresse und die Listen, denen du angehörst. Derzeit MailerLite.
+- **Hilfe-Assistent** — Beantwortung deiner Fragen, nur wenn du den Assistenten nutzt: deine Nachrichten und der zur Beantwortung erforderliche Kontext, wie in den Nutzungsbedingungen des KI-Assistenten näher beschrieben. Derzeit Anthropic.
 
-Diese Dienstleister verarbeiten die Daten im Auftrag des Vereins und ausschließlich für die in dieser Erklärung beschriebenen Zwecke.
+Diese Dienstleister verarbeiten die Daten im Auftrag des Vereins und ausschließlich für die in dieser Erklärung beschriebenen Zwecke. Der Verein kann sie ersetzen oder für Funktionen gleicher Art andere Dienstleister mit gleichwertigen Garantien einsetzen; die aktualisierte Liste wird gemäß Abschnitt 11 veröffentlicht.
 
 Personenbezogene Daten können außerdem offengelegt werden, wenn dies gesetzlich vorgeschrieben oder zur Erfüllung der rechtlichen Pflichten des Vereins erforderlich ist.
 
 ### 6.2 Internationale Übermittlungen
 
-Einige Dienstleister können Daten außerhalb des Europäischen Wirtschaftsraums verarbeiten. In diesem Fall ist die Übermittlung durch geeignete Garantien abgesichert, etwa durch die von der Europäischen Kommission genehmigten Standardvertragsklauseln.
+Einige Dienstleister können Daten außerhalb des Europäischen Wirtschaftsraums verarbeiten. In diesem Fall ist die Übermittlung durch einen Angemessenheitsbeschluss der Europäischen Kommission oder durch geeignete Garantien abgesichert, etwa durch die von der Kommission genehmigten Standardvertragsklauseln.
 
-Insbesondere hat Anthropic, PBC seinen Sitz in den Vereinigten Staaten. Die Verarbeitung durch Anthropic umfasst eine internationale Übermittlung außerhalb des Europäischen Wirtschaftsraums, die durch die von der Europäischen Kommission genehmigten Standardvertragsklauseln abgesichert ist. Die übermittelten Daten werden nicht zum Training seiner Modelle verwendet.
+Insbesondere hat der derzeitige Anbieter des Hilfe-Assistenten, Anthropic, PBC, seinen Sitz in den Vereinigten Staaten; die Nutzung des Assistenten umfasst eine internationale Übermittlung, die durch die von der Europäischen Kommission genehmigten Standardvertragsklauseln abgesichert ist. Die übermittelten Daten werden nicht zum Training seiner Modelle verwendet.
 
 ## 7. Speicherdauer
 
-- **Aktives Konto** — Die Daten werden gespeichert, solange dein Konto aktiv ist.
-- **Keine Löschung wegen Inaktivität** — Konten werden derzeit nicht wegen Inaktivität gelöscht: Deine Daten bleiben gespeichert, bis du ihre Löschung beantragst.
-- **Löschung des Kontos** — Wenn du die Löschung beantragst, enden deine Teamzugehörigkeiten und Rollen sofort. Deine personenbezogenen Daten werden 30 Tage nach dem Antrag automatisch anonymisiert oder, wenn du ein Ticket für die laufende Veranstaltung hast, nach Ablauf der Aufbewahrungsfrist nach der Veranstaltung, je nachdem, was später eintritt. Bis dahin kannst du den Antrag widerrufen.
-- **Gespräche mit dem Hilfe-Assistenten** — Werden für die Speicherdauer aufbewahrt, die dir vor Beginn eines Gesprächs angezeigt wird, und danach endgültig gelöscht.
+- **Aktives Konto** — Die Daten werden gespeichert, solange dein Konto aktiv ist. Konten werden derzeit nicht wegen Inaktivität gelöscht: Deine Daten bleiben gespeichert, bis du ihre Löschung beantragst.
+- **Löschung des Kontos** — Wenn du die Löschung beantragst, werden deine personenbezogenen Daten innerhalb einer angemessenen Frist nach deinem Antrag gelöscht oder anonymisiert, vorbehaltlich der nachstehenden gesetzlichen Aufbewahrungspflichten.
+- **Gespräche mit dem Hilfe-Assistenten** — Werden für die in den Nutzungsbedingungen des KI-Assistenten vorgesehene Dauer aufbewahrt und danach endgültig gelöscht.
 
 Nach der Löschung bewahrt der Verein nur Folgendes auf, weil das Gesetz es verlangt oder weil es zum Nachweis der Einhaltung der Vorschriften erforderlich ist:
 
-- Den Nachweis, wer in welchem Jahr Mitglied oder Mitwirkende·r war, wer welche Ämter innehatte und wer welche Schichten übernommen hat (Organgesetz 1/2002), verknüpft mit einem anonymisierten Konto, ohne deinen Namen und deine Kontaktdaten.
-- Buchhaltungsunterlagen und deren Belege, sechs Jahre lang (Artikel 30 des spanischen Handelsgesetzbuchs) und vier Jahre für steuerliche Zwecke (Artikel 66 des Gesetzes 58/2003, Allgemeines Steuergesetz). Auslagenerstattungen werden vollständig aufbewahrt, einschließlich bürgerlichem Namen und IBAN, da sie Buchungsbelege sind.
-- Einwilligungsnachweise (einschließlich IP-Adresse und User-Agent zum Zeitpunkt der Zustimmung) und Audit-Aufzeichnungen, die belegen, dass die Verarbeitung eine Rechtsgrundlage hatte und dass die Löschung durchgeführt wurde.
+- Das Register der Mitglieder und Mitwirkenden mit den ausgeübten Ämtern und der Teilnahme in jedem Jahr (Organgesetz 1/2002), getrennt von deinem Namen und deinen Kontaktdaten.
+- Buchhaltungsunterlagen und deren Belege, einschließlich der Auslagenerstattungen und der darin enthaltenen personenbezogenen Daten, für die gesetzlich vorgeschriebenen Fristen (sechs Jahre nach Artikel 30 des spanischen Handelsgesetzbuchs und vier Jahre für steuerliche Zwecke nach Artikel 66 des Gesetzes 58/2003, Allgemeines Steuergesetz).
+- Einwilligungsnachweise und Audit-Aufzeichnungen, die belegen, dass die Verarbeitung eine Rechtsgrundlage hatte und dass die Löschung durchgeführt wurde.
 
 ## 8. Deine Rechte
 
 Du kannst jederzeit die folgenden Rechte ausüben:
 
-- **Auskunft** — Eine Kopie deiner personenbezogenen Daten anfordern. Unter **Profil → Meine Daten** erhältst du mit **Meine Daten herunterladen** eine Datei mit allen Daten, die die Anwendung über dich gespeichert hat.
-- **Berichtigung** — Unrichtige oder unvollständige Daten korrigieren. Du kannst dein Profil direkt in der Anwendung bearbeiten.
-- **Löschung** — Die Löschung deiner Daten beantragen. Du kannst sie unter **Profil → Meine Daten** beantragen, zu den in Abschnitt 7 beschriebenen Bedingungen.
-- **Datenübertragbarkeit** — Deine Daten in einem strukturierten, maschinenlesbaren Format erhalten. Die Datei aus **Meine Daten herunterladen** liegt im JSON-Format vor.
+- **Auskunft** — Eine Kopie deiner personenbezogenen Daten anfordern.
+- **Berichtigung** — Unrichtige oder unvollständige Daten korrigieren.
+- **Löschung** — Die Löschung deiner Daten beantragen, zu den in Abschnitt 7 beschriebenen Bedingungen.
+- **Datenübertragbarkeit** — Deine Daten in einem strukturierten, gängigen und maschinenlesbaren Format erhalten.
 - **Einschränkung** — Die Einschränkung der Verarbeitung verlangen.
-- **Widerspruch** — Bestimmten Verarbeitungen widersprechen. Unter **Kommunikationseinstellungen** kannst du wählen, welche E-Mails du erhältst.
+- **Widerspruch** — Bestimmten Verarbeitungen widersprechen, auch nicht wesentlichen Mitteilungen.
 
-Um ein Recht auszuüben, das du nicht direkt in der Anwendung verwalten kannst, schreibe an **dpo@nobodies.team** oder an den Vorstand unter **board@nobodies.team**.
+Die Anwendung bietet dir Werkzeuge, um deine Daten herunterzuladen, dein Profil zu aktualisieren, deine Kommunikationseinstellungen zu verwalten und die Löschung deines Kontos zu beantragen. Um ein Recht auszuüben, das du nicht direkt in der Anwendung verwalten kannst, schreibe an **dpo@nobodies.team** oder an den Vorstand unter **board@nobodies.team**.
 
 ## 9. Cookies
 
@@ -134,13 +129,13 @@ Der Verein verwendet keine Analyse-, Werbe- oder Tracking-Cookies von Drittanbie
 Der Verein setzt geeignete technische und organisatorische Maßnahmen zum Schutz personenbezogener Daten ein, unter anderem:
 
 - Verschlüsselte Übertragung (HTTPS).
-- Sichere Anmeldung mit Google oder über einmalig verwendbare Links per E-Mail.
-- Rollenbasierte Zugriffskontrollen und Audit-Protokollierung. Zugriffe auf medizinische Informationen werden protokolliert, und du kannst dieses Protokoll in deinem Profil einsehen.
+- Sichere Anmeldeverfahren.
+- Rollenbasierte Zugriffskontrollen und Audit-Protokollierung, einschließlich der Protokollierung von Zugriffen auf Gesundheitsdaten.
 - Regelmäßige Sicherheitsüberprüfungen.
 
 ## 11. Änderungen
 
-Der Verein kann diese Erklärung ändern. Änderungen bedürfen der Genehmigung durch den Vorstand und werden unter [github.com/nobodies-collective/legal](https://github.com/nobodies-collective/legal) veröffentlicht. Wesentliche Änderungen werden den aktiven Mitgliedern per E-Mail mitgeteilt.
+Der Verein kann diese Erklärung ändern, einschließlich der Liste der Dienstleister in Abschnitt 6, um Änderungen seiner Aktivitäten, der Anwendung oder der Rechtslage Rechnung zu tragen. Änderungen bedürfen der Genehmigung durch den Vorstand und werden unter [github.com/nobodies-collective/legal](https://github.com/nobodies-collective/legal) veröffentlicht. Wesentliche Änderungen werden den aktiven Mitgliedern per E-Mail mitgeteilt.
 
 ## 12. Kontakt und Beschwerden
 
