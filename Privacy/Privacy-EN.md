@@ -19,8 +19,7 @@ This Policy is informational and complements section 4 (Data Protection and GDPR
 ## 2. Data Controller
 
 - **Controller:** Asociación Nobodies Collective, a Spanish association (*asociación*) registered under Spanish Organic Law 1/2002 of 22 March regulating the Right of Association.
-- **Tax ID (NIF):** [TBD: the Association's NIF]
-- **Registration:** [TBD: register of associations and registration number]
+- **Tax ID (NIF):** G26726299
 - **Registered office:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
 - **Data Protection Officer:** designated under GDPR Article 37; contact at **dpo@nobodies.team**
 

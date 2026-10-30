@@ -19,8 +19,7 @@ Aquesta Política té caràcter informatiu i complementa la secció 4 (Protecci�
 ## 2. Responsable del tractament
 
 - **Responsable:** Asociación Nobodies Collective, associació espanyola constituïda a l'empara de la Llei Orgànica 1/2002, de 22 de març, reguladora del Dret d'Associació.
-- **NIF:** [TBD: NIF de l'Associació]
-- **Inscripció:** [TBD: registre d'associacions i número d'inscripció]
+- **NIF:** G26726299
 - **Domicili social:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
 - **Delegat de Protecció de Dades:** designat d'acord amb l'article 37 RGPD; contacte a **dpo@nobodies.team**
 

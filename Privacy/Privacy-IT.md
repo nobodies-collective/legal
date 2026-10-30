@@ -19,8 +19,7 @@ La presente Informativa ha carattere informativo e integra la sezione 4 (Protezi
 ## 2. Titolare del trattamento
 
 - **Titolare:** Asociación Nobodies Collective, associazione spagnola costituita ai sensi della Ley Orgánica 1/2002, del 22 marzo, che disciplina il Diritto di Associazione.
-- **NIF:** [TBD: NIF dell'Associazione]
-- **Iscrizione:** [TBD: registro delle associazioni e numero di iscrizione]
+- **NIF:** G26726299
 - **Sede legale:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
 - **Responsabile della Protezione dei Dati:** designato ai sensi dell'articolo 37 RGPD; contatto: **dpo@nobodies.team**
 

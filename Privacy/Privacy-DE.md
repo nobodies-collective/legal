@@ -19,8 +19,7 @@ Diese Erklärung dient der Information und ergänzt Abschnitt 4 (Datenschutz und
 ## 2. Verantwortlicher
 
 - **Verantwortlicher:** Asociación Nobodies Collective, ein spanischer Verein (*asociación*), gegründet nach dem Organgesetz 1/2002 vom 22. März zur Regelung des Vereinigungsrechts.
-- **Steuernummer (NIF):** [TBD: NIF des Vereins]
-- **Eintragung:** [TBD: Vereinsregister und Registernummer]
+- **Steuernummer (NIF):** G26726299
 - **Sitz:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
 - **Datenschutzbeauftragter:** benannt gemäß Artikel 37 DSGVO; Kontakt: **dpo@nobodies.team**
 
