@@ -22,8 +22,7 @@ La présente Politique a une valeur informative et complète la section 4 (Prote
 - **NIF :** [TBD : NIF de l'Association]
 - **Inscription :** [TBD : registre des associations et numéro d'inscription]
 - **Siège social :** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
-- **Contact protection des données :** **dpo@nobodies.team**
-- **Délégué à la Protection des Données :** [TBD : indiquer si l'Association a formellement désigné un Délégué à la Protection des Données (article 37 RGPD) et, le cas échéant, son identité]
+- **Délégué à la Protection des Données :** désigné conformément à l'article 37 RGPD ; contact : **dpo@nobodies.team**
 
 ## 3. Données que nous traitons
 
@@ -97,7 +96,7 @@ En particulier, Anthropic, PBC a son siège aux États-Unis. Le traitement des d
 ## 7. Conservation des données
 
 - **Compte actif** — Les données sont conservées tant que votre compte est actif.
-- **Compte inactif** — [TBD : durée de conservation des données des comptes inactifs n'ayant pas demandé leur suppression]
+- **Pas d'expiration pour inactivité** — Les comptes ne sont actuellement pas supprimés pour inactivité : vos données sont conservées jusqu'à ce que vous en demandiez la suppression.
 - **Suppression du compte** — Lorsque vous demandez la suppression, votre appartenance aux équipes et vos rôles prennent fin immédiatement. Vos données personnelles sont anonymisées automatiquement 30 jours après la demande ou, si vous détenez un billet pour l'événement en cours, à la fin de la période de conservation postérieure à l'événement, si celle-ci est plus tardive. D'ici là, vous pouvez annuler la demande.
 - **Conversations avec l'assistant d'aide** — Conservées pendant la durée de conservation qui vous est indiquée avant de commencer une conversation, puis supprimées définitivement.
 
@@ -152,6 +151,6 @@ Si la réponse ne vous satisfait pas, vous avez le droit d'introduire une récla
 
 ---
 
-*Dernière mise à jour : [TBD : date d'approbation par le Conseil d'Administration]*
+*Dernière mise à jour : 30 octobre 2026*
 
 © Asociación Nobodies Collective — Sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

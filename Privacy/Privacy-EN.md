@@ -22,8 +22,7 @@ This Policy is informational and complements section 4 (Data Protection and GDPR
 - **Tax ID (NIF):** [TBD: the Association's NIF]
 - **Registration:** [TBD: register of associations and registration number]
 - **Registered office:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
-- **Data protection contact:** **dpo@nobodies.team**
-- **Data Protection Officer:** [TBD: state whether the Association has formally designated a Data Protection Officer (GDPR Article 37) and, if so, who]
+- **Data Protection Officer:** designated under GDPR Article 37; contact at **dpo@nobodies.team**
 
 ## 3. Data We Process
 
@@ -97,7 +96,7 @@ In particular, Anthropic, PBC is headquartered in the United States. Processing 
 ## 7. Data Retention
 
 - **Active account** — Data is kept while your account is active.
-- **Inactive account** — [TBD: retention period for data of inactive accounts that have not requested deletion]
+- **No expiry for inactivity** — Accounts are not currently deleted for inactivity: your data is kept until you request its deletion.
 - **Account deletion** — When you request deletion, your team memberships and roles end immediately. Your personal data is anonymised automatically 30 days after the request or, if you hold a ticket for the current event, when the post-event hold period ends, whichever is later. Until then you can cancel the request.
 - **Help assistant conversations** — Kept for the retention period shown to you before you start a conversation, then permanently deleted.
 
@@ -152,6 +151,6 @@ If you are not satisfied with the response, you have the right to lodge a compla
 
 ---
 
-*Last updated: [TBD: date of approval by the Board of Directors]*
+*Last updated: 30 October 2026*
 
 © Asociación Nobodies Collective — Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

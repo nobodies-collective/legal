@@ -22,8 +22,7 @@ Aquesta Política té caràcter informatiu i complementa la secció 4 (Protecci�
 - **NIF:** [TBD: NIF de l'Associació]
 - **Inscripció:** [TBD: registre d'associacions i número d'inscripció]
 - **Domicili social:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
-- **Contacte de protecció de dades:** **dpo@nobodies.team**
-- **Delegat de Protecció de Dades:** [TBD: indicar si l'Associació ha designat formalment un Delegat de Protecció de Dades (article 37 RGPD) i, si és així, qui]
+- **Delegat de Protecció de Dades:** designat d'acord amb l'article 37 RGPD; contacte a **dpo@nobodies.team**
 
 ## 3. Dades que tractem
 
@@ -97,7 +96,7 @@ En particular, Anthropic, PBC té la seu als Estats Units. El tractament de dade
 ## 7. Conservació de les dades
 
 - **Compte actiu** — Les dades es conserven mentre el teu compte estigui actiu.
-- **Compte inactiu** — [TBD: termini de conservació de les dades dels comptes inactius que no n'han sol·licitat l'eliminació]
+- **Sense caducitat per inactivitat** — Actualment els comptes no s'eliminen per inactivitat: les teves dades es conserven fins que en sol·licitis l'eliminació.
 - **Eliminació del compte** — Quan sol·licites l'eliminació, la teva pertinença a equips i els teus rols acaben immediatament. Les teves dades personals s'anonimitzen automàticament 30 dies després de la sol·licitud o, si tens una entrada per a l'esdeveniment en curs, en acabar el període de conservació posterior a l'esdeveniment, si és més tard. Fins aleshores pots cancel·lar la sol·licitud.
 - **Converses amb l'assistent d'ajuda** — Es conserven durant el període de retenció que se't mostra abans d'iniciar una conversa i després s'eliminen de manera permanent.
 
@@ -152,6 +151,6 @@ Si no estàs conforme amb la resposta, tens dret a presentar una reclamació dav
 
 ---
 
-*Última actualització: [TBD: data d'aprovació per la Junta Directiva]*
+*Última actualització: 30 d'octubre de 2026*
 
 © Asociación Nobodies Collective — Llicenciat sota [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

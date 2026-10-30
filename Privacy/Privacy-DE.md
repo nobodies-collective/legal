@@ -22,8 +22,7 @@ Diese Erklärung dient der Information und ergänzt Abschnitt 4 (Datenschutz und
 - **Steuernummer (NIF):** [TBD: NIF des Vereins]
 - **Eintragung:** [TBD: Vereinsregister und Registernummer]
 - **Sitz:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
-- **Kontakt für Datenschutz:** **dpo@nobodies.team**
-- **Datenschutzbeauftragter:** [TBD: angeben, ob der Verein förmlich einen Datenschutzbeauftragten (Artikel 37 DSGVO) benannt hat, und gegebenenfalls wen]
+- **Datenschutzbeauftragter:** benannt gemäß Artikel 37 DSGVO; Kontakt: **dpo@nobodies.team**
 
 ## 3. Welche Daten wir verarbeiten
 
@@ -97,7 +96,7 @@ Insbesondere hat Anthropic, PBC seinen Sitz in den Vereinigten Staaten. Die Vera
 ## 7. Speicherdauer
 
 - **Aktives Konto** — Die Daten werden gespeichert, solange dein Konto aktiv ist.
-- **Inaktives Konto** — [TBD: Speicherdauer für Daten inaktiver Konten, die keine Löschung beantragt haben]
+- **Keine Löschung wegen Inaktivität** — Konten werden derzeit nicht wegen Inaktivität gelöscht: Deine Daten bleiben gespeichert, bis du ihre Löschung beantragst.
 - **Löschung des Kontos** — Wenn du die Löschung beantragst, enden deine Teamzugehörigkeiten und Rollen sofort. Deine personenbezogenen Daten werden 30 Tage nach dem Antrag automatisch anonymisiert oder, wenn du ein Ticket für die laufende Veranstaltung hast, nach Ablauf der Aufbewahrungsfrist nach der Veranstaltung, je nachdem, was später eintritt. Bis dahin kannst du den Antrag widerrufen.
 - **Gespräche mit dem Hilfe-Assistenten** — Werden für die Speicherdauer aufbewahrt, die dir vor Beginn eines Gesprächs angezeigt wird, und danach endgültig gelöscht.
 
@@ -152,6 +151,6 @@ Wenn du mit der Antwort nicht zufrieden bist, hast du das Recht, Beschwerde bei 
 
 ---
 
-*Letzte Aktualisierung: [TBD: Datum der Genehmigung durch den Vorstand]*
+*Letzte Aktualisierung: 30. Oktober 2026*
 
 © Asociación Nobodies Collective — Lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

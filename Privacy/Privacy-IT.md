@@ -22,8 +22,7 @@ La presente Informativa ha carattere informativo e integra la sezione 4 (Protezi
 - **NIF:** [TBD: NIF dell'Associazione]
 - **Iscrizione:** [TBD: registro delle associazioni e numero di iscrizione]
 - **Sede legale:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
-- **Contatto per la protezione dei dati:** **dpo@nobodies.team**
-- **Responsabile della Protezione dei Dati:** [TBD: indicare se l'Associazione ha designato formalmente un Responsabile della Protezione dei Dati (articolo 37 RGPD) e, in tal caso, chi]
+- **Responsabile della Protezione dei Dati:** designato ai sensi dell'articolo 37 RGPD; contatto: **dpo@nobodies.team**
 
 ## 3. Dati che trattiamo
 
@@ -97,7 +96,7 @@ In particolare, Anthropic, PBC ha sede negli Stati Uniti. Il trattamento dei dat
 ## 7. Conservazione dei dati
 
 - **Account attivo** — I dati vengono conservati finché il tuo account è attivo.
-- **Account inattivo** — [TBD: periodo di conservazione dei dati degli account inattivi che non hanno richiesto la cancellazione]
+- **Nessuna scadenza per inattività** — Attualmente gli account non vengono eliminati per inattività: i tuoi dati sono conservati finché non ne richiedi la cancellazione.
 - **Cancellazione dell'account** — Quando richiedi la cancellazione, la tua appartenenza ai team e i tuoi ruoli terminano immediatamente. I tuoi dati personali vengono anonimizzati automaticamente 30 giorni dopo la richiesta oppure, se hai un biglietto per l'evento in corso, al termine del periodo di conservazione successivo all'evento, se posteriore. Fino ad allora puoi annullare la richiesta.
 - **Conversazioni con l'assistente di aiuto** — Conservate per il periodo di conservazione che ti viene indicato prima di iniziare una conversazione, poi eliminate definitivamente.
 
@@ -152,6 +151,6 @@ Se non sei soddisfatto/a della risposta, hai il diritto di presentare un reclamo
 
 ---
 
-*Ultimo aggiornamento: [TBD: data di approvazione da parte del Consiglio Direttivo]*
+*Ultimo aggiornamento: 30 ottobre 2026*
 
 © Asociación Nobodies Collective — Rilasciato con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

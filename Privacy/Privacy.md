@@ -18,8 +18,7 @@ La presente Política es informativa y complementa la sección 4 (Protección de
 - **NIF:** [TBD: NIF de la Asociación]
 - **Inscripción:** [TBD: registro de asociaciones y número de inscripción]
 - **Domicilio social:** Glorieta de Bilbao 1, 3º Derecha, 28004, Madrid.
-- **Contacto de protección de datos:** **dpo@nobodies.team**
-- **Delegado de Protección de Datos:** [TBD: indicar si la Asociación ha designado formalmente un Delegado de Protección de Datos (artículo 37 RGPD) y, en tal caso, su identidad]
+- **Delegado de Protección de Datos:** designado conforme al artículo 37 RGPD; contacto en **dpo@nobodies.team**
 
 ## 3. Datos que tratamos
 
@@ -93,7 +92,7 @@ En particular, Anthropic, PBC tiene su sede en los Estados Unidos. El tratamient
 ## 7. Conservación de los datos
 
 - **Cuenta activa** — Los datos se conservan mientras tu cuenta esté activa.
-- **Cuenta inactiva** — [TBD: plazo de conservación de los datos de cuentas inactivas que no han solicitado su eliminación]
+- **Sin caducidad por inactividad** — Actualmente las cuentas no se eliminan por inactividad: tus datos se conservan hasta que solicites su eliminación.
 - **Eliminación de la cuenta** — Cuando solicitas la eliminación, tu pertenencia a equipos y tus roles terminan de inmediato. Tus datos personales se anonimizan automáticamente 30 días después de la solicitud o, si tienes una entrada para el evento en curso, al terminar el periodo de conservación posterior al evento, si es más tarde. Hasta entonces puedes cancelar la solicitud.
 - **Conversaciones con el asistente de ayuda** — Se conservan durante el periodo de retención que se te muestra antes de iniciar una conversación y después se eliminan de forma permanente.
 
@@ -148,6 +147,6 @@ Si no estás conforme con la respuesta, tienes derecho a presentar una reclamaci
 
 ---
 
-*Última actualización: [TBD: fecha de aprobación por la Junta Directiva]*
+*Última actualización: 30 de octubre de 2026*
 
 © Asociación Nobodies Collective — Licenciado bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
