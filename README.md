@@ -17,6 +17,12 @@ Public repository containing official legal and governance documents for **Asoci
 |----------|-----------|
 | Volunteer Agreement | [ES](Volunteer/Volunteer.md), [EN](Volunteer/Volunteer-EN.md), [FR](Volunteer/Volunteer-FR.md), [DE](Volunteer/Volunteer-DE.md), [IT](Volunteer/Volunteer-IT.md) |
 
+### Privacy Policy
+
+| Document | Languages |
+|----------|-----------|
+| Privacy Policy | [ES](Privacy/Privacy.md), [EN](Privacy/Privacy-EN.md), [FR](Privacy/Privacy-FR.md), [DE](Privacy/Privacy-DE.md), [IT](Privacy/Privacy-IT.md), [CA](Privacy/Privacy-CA.md) |
+
 ## Update Process
 
 Documents in this repository are updated only after formal approval by the Board of Directors. The git history provides an audit trail of all changes to official documents.
